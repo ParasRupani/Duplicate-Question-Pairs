@@ -1,0 +1,1146 @@
+q1
+How do I merge multiple dictionaries values having the same keys in Python but different lengths?
+"In document.createElement ('div'), is 'div' a parameter or an argument?"
+Which software or application will I use to build or develop my own apps and games?
+"How do I remove a value by value, not key, in a Python merged defaultdict dictionary? I have multiple values assigned to one key and I only want to remove the one."
+What is the Sniffer program like?
+"Greenspun's Tenth Rule of programming states that “Any sufficiently complicated C or Fortran program contains an ad hoc, informally-specified, bug-ridden, slow implementation of half of Common Lisp.” Is Greenspun’s Tenth Rule correct?"
+"Is it true that the POSIX read and write system calls are unbuffered but the C stdio.h functions fread and fwrite functions are buffered? If so, then why according to the man(2) pages do the POSIX read and write system calls have a buffer parameter?"
+"""What are the key considerations for integrating IoT technology into programming projects, and how can developers effectively leverage IoT capabilities to enhance their applications?""?"
+"""How can beginner programmers get started with IoT development, and what are some beginner-friendly projects or resources to help them learn and experiment with IoT programming?""?"
+What is main function in C++ either user defined or built-in?
+What are some plausible use cases for using thread-local variables (e.g. C11’s _Thread_local type) that are reentrant-unsafe rather than just local variables that are reentrant-safe? Are the former useful only when reentry never occurs?
+"Is the information security book ‘Applied cryptography: Protocols, Algorithms and Source Code in C’ from 1996 written by Bruce Schneier obsolete or still have good information about computer security?"
+"The iPhone's iOS system only supports more than 40 languages, including English, and does not support the language I need. How can I make a language pack to add to the iPhone's iOS system language?"
+What should I buy for my 8-year-old who is teaching himself coding?
+How are job openings for web development in 2024? Will they continue to have a good gap like people say so?
+Will AI replace programmers or developers?
+Can I create a website for media downloads without paying the premium first? Is there any way to create it for free then later pay the premium?
+"Programmers, how often do you write pseudocode before actually coding something? Why do you write pseudocode?"
+Where can I immediately find a website developer to create a responsive WordPress website for $5 in 2024?
+Have you faced programming problems while learning programming and yet and do not know how to solve them?
+Are there budget-friendly web design options for small businesses?
+How do I insert assets and environments in unity with free assets? I’m asking for a friend that has a project. She’s been really struggling and is almost giving up and I really want to help but at the moment I have zero knowledge with these things)
+"How can i fast my API response? I have created an API for reading the CSV. It has 23250 data in it. My API took much time to get all the rows of CSV. I use pagination techniques also in front side , but tell me in server side ?"
+How do you find and hire the best Java developer for your project in 2024?
+How do you find and hire the best Java developer for your project in 2024?
+Windows only supports 99 languages including English. How can I create and compile an ethnic minority language package to turn the Windows system language into a new minority language?
+How do you find and hire .NET programmers for your business in 2024?
+"What’s the difference between C, C++, and C#?"
+What program language does compiler written? And how the code of compiler being compiled?
+How may I emit an event from the server side to the client side in Node.js (i.e. with EventEmitter) without using socket.io or WebSocket?
+What technology or algorithms power BotSailor's conversational abilities?
+What programming language would be best to make a simple bit by bit analysis of duplicates and the option to get rid of said duplicates?
+Can you recommend beginner-friendly resources for learning front-end development?
+What is the best tech stack for web app development in 2024?
+What are some good programming shortcuts I should know in general? Stuff like making new lines faster and convenience shortcuts.
+How does the visual drag-and-drop chatbot builder benefit users with no coding experience?
+"I’m new to coding, what is the best language to learn in order to become a front-end developer at the entry level?"
+What makes a full stack developer essential for tech startups?
+"How does DeviantArt have custom emoticons, and how would I code some for my website?"
+Who would like the file to my OS I created?
+What is the difference between state and setState() in React?
+What is the task of compilers and assembly?
+What are the introductory fundamentals of programming?
+"Do developers of bots sell the source code to their clients, or do they keep it?"
+What future trends in software engineering can be shaped by C++?
+Which interpolation method for a function of multiple variables is considered the most reliable and stable?
+"Are there new challenges to entering the web development industry as a self learner or bootcamp graduate now compared to ten years ago? In other words, are there specific hurdles in 2024 compared to say 2014? I am trying to do this at the moment."
+Which programming language is commonly used for developing smart contracts on blockchain platforms like Ethereum?
+Is there an app or website where you can get paid to learn how to code?
+What is the response time of the WBroker app in processing commands efficiently?
+Will AI increase or decrease the amount of programming jobs in the future?
+"In C programming, unless you are developing system call wrappers yourself, what is the relevance of specifically the OS man 2 (system call) pages? Won’t you just end up using existing wrapper functions (e.g. POSIX <unistd.h>) for system calls?"
+"In C programming, when would you use OS-specific system calls (e.g. open) if there is a corresponding higher-level function (e.g. fopen)? Don’t you lose portability using the former?"
+"Which language is best, C++, C#, Java, or Python?"
+Has the scope of web development ended because there is too much competition in 2024?
+"Other than for backwards compatibility and/or ease of usage, what might be some plausible use cases for using the functionality available in the Java.io package rather than that of the Java.nio package?"
+How do the 1st/2nd editions of the Structure and Interpretation of Computer Programs textbook that uses Scheme compare to the 2022 adaptation that uses Javascript? Are the pedagogical benefits comparable?
+"Has anybody on Quora read the entirety of the published volumes of Knuth’s ‘The Art of Computer Programming’ (TACP), which (as of 2024) would include volume 4B? Is reading - or at least attempting to read - TACP a worthwhile pedagogical endeavor?"
+Leveraging ChatGPT for Profit: How AI-Powered Conversational Agents Can Boost Your Business?
+"What vendors are providing solutions to verify the logical correctness of software architecture, design and code?"
+How can I become the best programmer in 2024?
+What are the key trends shaping modern software development?
+"What might be the most convenient way to write a *single* C program that utilizes system calls (e.g. file I/o) and that will compile and run on macOS, Linux, or Windows without modification? (Assume that you have the corresponding C compilers.)"
+How do I host the MTA-STS policy URL on IIS?
+What are the best projects to practice your coding skills when your learning frontend?
+"In Java, how might you write a function that takes a number n (which might be any number type rather than just a specific number type such as Integer) and returns a function that itself takes another number I and returns the value n incremented by I?"
+I just started learning web design and web development from YouTube. From WHERE is the best way to start learning more efficiently and effectively to achieve my web developer and web design dream successfully in this day and age?
+"In the Java programming language, given that the official Java documentation explicitly states that “spliterators are not expected to be thread-safe”, what then is the advantage of using a spliterator interface rather than just an iterator interface?"
+"Why is Python Hard to learn in a sense that I have to move up to advanced courses in order to solve a moderately diffuculty python problems, or that I have to memorize many different code instances in order to solve specific problems within very specific variables?"
+Why is Lisp not popular?
+In C++ problem with multiple inheritence's diamond of death was solved with virtual inheritence. A nice solution for an ugly problem. Why did the creators of Java decide against multiple inheritence if it has such an elegant solution?
+"In Python, how do I append a user input to a specific row within an existing CSV file?"
+"In Python, what’s the best way to append user inputs from multiple functions into the same row of a CSV file?"
+"Of the major object-oriented languages, is Heap Pollution a problem only with Java? If so, why? If not, how does heap pollution manifest itself in the other major OOP languages?"
+How do you know creating Class(es) is the best approach to solve a problem or when is class the right solution or when do you use class?
+How is the timing synchronized between processor instructions and their corresponding micro-operations? Must the program counter wait for all of an instruction’s micro-operations to be pipelined before incrementing to the next instruction?
+"Is the content in ChatGPT static, or does it continue to update/learn from user input?"
+"Which programming language, Java or Python, is considered better for building recommender systems?"
+"How does Java manage memory, and what are the different types of memory areas in the JVM?"
+Why do CSP headers hamper a website's brand look very badly?
+"Which one do you prefer most for writing, rewriting, and debugging code, is it Cody, GitHub, GitLab, Code, or JetBrains?"
+Why is https://asite.com/ redirect to https://dns.google/?
+I (for educational reasons) want to learn simple hacking. How can I start?
+Why do people use Diffbot?
+What's the easy way to learn Python with no less stress?
+"Can monograms, trigrams, tetragrams, and/or hexagrams from sources such as the I Ching/Yi Jing and Taixuanjing be used for purposes such as binary and ternary computer code?"
+How do you generate 6 digits Emirp Numbers in Python?
+How do you check whether 172 is a Disarium Number in Python?
+How do you generate the first 10 Lucas Numbers in Python?
+"Is it possible for a proficient software developer to earn a yearly income of 1 million dollars while working remotely, regardless of their geographical location?"
+"Which is easier to learn concepts of backend development (databases, API, etc.) PHP or Asp.net?"
+Why is coding not easy?
+"Programmers, in implementing an open world game with weather and lightning, how would you approach implementing the rule 'Lightning never strikes the same place twice'?"
+"As an employer, will you hire a programmer who has years of employment gap for the experience of setting up one's own business and finally failed?"
+How do I get the 'make' command to work in PowersShell/VS Code? I am attempting to follow Harvards cs50x 2023. I am using Windows 10. I have extensions for the appropriate languages as well as makefile installed. Ctrl alt n does nothing.
+"What role does serverless architecture play in modern web application development, and what benefits does it offer?"
+Why did the Pascal programming language decline?
+"Is it possible to make a GUI for the C language in HTML, CSS, and JS (C, development)?"
+"What is an API? How does it work, and how do developers use them?"
+"In computer programming, what exactly is the difference between ‘call by reference’ and ‘call by sharing’? Is the key difference that the former allows caller stack variables to be modified by the callee (through references/pointers)?"
+"How does the operating system manage and utilize RAM, and what is virtual memory?"
+"Why do experienced senior developers often express disdain for traditional coding interviews, and what alternative methods could be more effective in assessing their skills and experience?"
+What is programming in VB Utilities?
+"Recent Coding Dojo graduates (within the past 2 years), was the program beneficial to you? Was it with it? Did you acquire the skills to obtain a job?"
+How do debuggers work?
+"What are the solutions to create your own BIMl value URL as v=BIMI1;l=https://images.solarmora.com/brand/
+bimilogo.svg;a=https://images.solarmora.com/
+brand/certificate.pem?"
+"What language, software, or programming environments are best for manipulating text?"
+How does a CPU execute instructions? Describe the basic steps in the instruction execution cycle.
+What are the web security matters of a necked URL if it redirects or points to an encrypted web address for the same URL?
+Does the redirect block feature help to prevent clickjacking?
+"Naïve ques. (Assoc. CS Deg in Spring 2024): BASIC had vertical spaghetti code a la 'goto'. How is Java's (for ex.) 2D spaghetti code, with vertical stacks of inherited classes and horizontal interfaces better, or easier to decipher and understand?"
+What is developing based on what programming and coding?
+How much would it cost to build a robot like a human?
+Is it harder than ever to be a good software engineer?
+"What are the exact performance difference's, difficiencies, and proficiencies between compiled, intermediate, and interpreted languages (please use practical examples with Perl, Python, Java, C#, and C++)?"
+What method checks that the string is a number and includes negative in the Python language?
+How can I change the IP address from which SMTP lib Library sends an email? Using python?
+"On WhatsApp on my mobile device, when someone sends a sensitive media and the receiver takes a screenshot, the taken screenshot is overlayed with an image for privacy.
+How is this done?
+What techniques and technology come be used to achieve the same thing?
+And how can I include such functionality into my python program?"
+Does machine learning always use neural networks?
+What is a rebound shot in dribbble?
+How do JavaScript building blocks work?
+"As a highly skilled systems/application programmer I've dabbled a LOT with 3D/VR development. Do you find using these tools and the mindset of 2D tools to be lacking diversity, inflexible, awkward and unnatural to do 3D development on a 2D screen?"
+"What is the significance of algorithmic complexity analysis in computer science, and how does it impact the efficiency of software and algorithms?"
+How do I become an SEO expert without any programming knowledge?
+How can I finish writing a C++ program that determines the compound interest on fixed savings? I posted an example of how the program should look in the output screen
+"What do I need or should learn and what should I skim through when learning HTML, CSS, and JavaScript? What is the best or quickest method to study them and should I go for React as soon as possible?"
+I'm planning to make a voxel game from scratch. Should I use C++ or Rust or C#?
+What is a good AI app where I can talk to the models in different languages?
+What are some mistakes that a beginner web developer should be aware of when making their first few sites?
+Why do we study MIPS in great detail in Computer Architecture instead of the more common ISA's like ARM or x86?
+How do I find a good web developer nowadays in Sep 2023?
+"Why do some computer languages make strings mutable while others make strings immutable? Which is better in general, and why?"
+Is learning specifically *assembly* language - as opposed to machine/object code - still useful? Wouldn’t one obtain the same pedagogical benefits from studying how a high-level language (e.g. C) is compiled to object code without learning assembly?
+"Does the Agile methodologies reputation suffer primarily due to inexperienced teams and the pressure on them to release products early, despite its overall effectiveness?"
+"Given the continued improvement in hardware and the widespread usage of optimizing compilers, how useful is it is for novice coders to learn and implement software optimization techniques (e.g. inlining, loop unrolling, constant folding, etc.)?"
+"What are the best IDE’s for programming in C (not C++, but specifically C) that run on macOS 13.5 and that fully supports C unit testing without need for wrappers? (Note, XCode does not seem to offer such functionality)"
+"Is it true that C allows one to pass by value an entire struct - even a large struct - as a function argument but does not allow one to pass by value an array - even a small array - as a function argument (instead requiring pointers)? If so, why?"
+Can I do a full stack bootcamp and then do an Ausbildung in Germany?
+"As a mid-developer, should I learn front-end or continue learning back-end?"
+"In the context of computer architecture and machine code, how does the microcode fit in? Is there another, presumably faster, clock signal that steps through the microcode for each line of machine code and translates it into circuit-level operations?"
+What are the variables to define errors in mistakes in programming and even any logic?
+What is an example of a distribution P and a valid MCMC sampler for which the detailed balance condition does not hold?
+What are the similarities and differences between the settings of the online learning algorithms of hedge and EXP3?
+What extra features does JSFiddle now have for its supporters?
+Why is an EM (Expectation Maximisation) algorithm producing a non-decreasing likelihood value during its iterations?
+What is the difference between a two-way and a three-way integration?
+Why is the Python framework being used in server-side applications for React environments?
+"Why Am I getting an error whenever, I include #include <string_view> header in my C++ code in vscode?"
+Are Python variables case sensitive?
+Can Python be used for front-end development?
+"Programmers working in game development are paid less, work overtime, and are younger and inexperienced. Does this mean most software developed by game developers is of poor quality?"
+"Suppose there is an issue that bothers you, like hating your teammates or manager, being discontent with policies, or receiving less challenging projects. How do you plan to convey your displeasure to your colleagues, supervisors, or subordinates?"
+What is the right way to start learning about cyber security for working purposes when you have no background on programming?
+"In the C language, is it true that a struct itself - as opposed to the individual items comprising the struct - cannot be assigned to NULL? If so, why?"
+"In the C language, is there any easy way to distinguish a char pointer (e.g. char * mypointer) that is only just a pointer to a single char vs. a pointer that is pointing to the first char of a string? Do you need to search for a ‘/0’ delimiter?"
+How can artificial intelligence be used to improve wildlife conservation efforts and protect endangered species?
+"In the C language, after you initialize an array (e.g. char myarray [8] = “myarray”), why do you get the same result when you printf the name of the array and when you printf the memory address of the name of the array by using the & operator?"
+"An engineer doesn't know everything, and asking too many questions may reduce overall productivity. Where will you draw the line? How much knowledge is expected from senior engineers?"
+"In the C language, is there an easy way to tell whether the syntax ‘char ** mypointer’ is regarding just a double-pointer to a single char or whether it is a pointer to an array of pointers to many char (and therefore possibly string) values?"
+Do developers who have experience at or are currently working at FAANG companies exhibit superior engineering skills compared to those who have never been employed at such prestigious firms?
+Why do both float and int in Java have the same storage size but different min and max values?
+Do I need to create a subdomain to activate an SSO sign-in?
+How do I prepare a web development project handover template?
+Which is the most difficult programming language to learn and why?
+"Which one comes first in the digital media, natural language process, machine learning, or artificial intelligence?"
+How do I derive the Bayes estimator of an L2 loss function?
+How many subdomains can be used for a website or blog?
+"Does the static code analysis tool, SpotBugs, generate false positive cases?"
+"Modern software has gotten so complex, different syntax and characters. Levels of abstraction too complex, code is too hard to read. And day by day we are loosing touch with the understanding the basics. Does any one else feel this way?"
+Are Python and C++ the most important programming languages for engineers to learn today?
+How can I improve my algorithmic problem solving skill?
+How does the Pinterest algorithm works?
+"In your experience as a developer, have you noticed that the present generation places a greater emphasis on getting into top-tier colleges, rather than cultivating their craftsmanship?"
+"As a senior developer, would you be open to hiring a candidate who possesses proficiency in a different domain and programming language than the one your organization primarily focuses on? If so, why? And if not, why not?"
+What are the potential risks and benefits of AI technology for society and how will this be influenced by the top tech companies in the next 20 years?
+"Can anyone help me get this github repo up and running? I looked at the tutorial and I think he’s using the older version. I’m new to coding, so I don’t really know how to do it. https://github.com/shadeemerhi/reddit-clone-yt"
+"Why do FAANG developers earn more than counterparts in military, NASA, NSA, or DoD, even though the latter face greater challenges? Does this suggest that FAANG employees are superior, and if so, what unique skill set sets them apart?"
+How can I find a monitor to help me learn programming (front-end developer)?
+"Is f (x, y) = e^(xy) an example of a kernel?"
+"Why do people use Linux when it's filled with viruses since it's so easy to hack? I can walk up to any computer, open the command prompt, and run commands."
+Is it possible for a system to function without any input?
+What approach do you personally take as a developer when it comes to reasoning through a program?
+"With the rise of ChatGTP and other similar AI, is it worth it for an individual to learn a programming language from scratch or should they use the new technology and learn what is needed?"
+"When starting a new project or adding new features, how can I prepare a good mind map for code to do best practice or best designed and styled code?"
+"As a developer, what is some of the most absurd criticism you have heard from users about your projects?"
+What is the shortcut but the most effective way to make sure of Google account security?
+"What is a Result class in the Java programming language, and why would one return that instead of throwing exceptions?"
+What are the differences between web scripting and web scraping?
+"What should a developer do when inheriting a spaghetti code base, focus on implementing new features or refactoring the existing code base?"
+"Game Programmers - have you ever implemented 'dynamically imperfect physics' into your game, that is, physics that adjusts itself dynamically based on the player's actions without actually telling the player or making it obvious this was happening?"
+Does a converted HTML file to an XML file really work?
+"Why are students encouraged to collaborate and conduct group research to solve problems, instead of working independently? Do you believe that this approach may have any potential drawbacks for students' long-term problem-solving capabilities?"
+"In what ways can internal politics within an organization have an impact on individual performance, and what strategies can individuals use to successfully navigate and mitigate these effects?"
+"An old developer told me that Gates showed the world that it is possible to make money with poorly written software, and that Bezos and Zuckerberg have followed his lead. Since then, software quality gone downhill.Do you agree with this? If not, why?"
+"How do I code a C++ program where it asks for a Latin character/letter, then prints out its character in another language script? I’m specifically trying to convert simple letters like ""b"" to ""ब""."
+"How long are you able to maintain your concentration, and does your ability to concentrate decline with increasing age?"
+"What are the most prestigious, top-class, industry-leading, widely-recognized books/courses/degrees/masterclasses/boot camps specifically for learning how to write algorithms?"
+"Are software developers more likely to create their own design patterns and anti-patterns based on their own experience, or do they tend to rely on pre-existing patterns?"
+"How would one code a bipolar AI, or encode other mental disorders into Machine Learning to better understand the thinking processes and choices and potentially find new ways to benefit someone with mental disorders?"
+Is it accurate to say that the challenges posed by the pressure to release products quickly and the inherent complexity of software development make it harder for software developers to write high quality software?
+"A colleague made a comment that 99% developers have no right to call themselves engineers because all of them leave behind technical debt which leads to most project being written poorly or fail. He calls them ""IT laborers"". Do you agree with him?"
+Do you have a computer science degree? How much has it helped or hindered your career?
+"Regarding cyber, can ""multiple AI interact with each other"" via a particular ""virtual environment"" but also simultaneously not have the ability to be/achieve/have hive mind?"
+"Can AI programs be programmed/coded to ""be only able to interact/communicate with each other via API"" in a way whereby they can generate (on the fly) jpg/txt files, upload the files to each other, but only their uploads can be accessed by each other?"
+How did you develop a certain skill or ability that’s important to you?
+Why does the ampersand (&) so often appear corrupted when seen on a different text program or website? For instance the term R&D will show as R&amp; D. This has been an issue for decades. Why hasn't this annoying bug been fixed yet?
+Bing integrated AI tool name is what?
+What is a placeholder URL in LazyLoad jQuery?
+What is the best free jQuery plugin for blogger-hosted sites?
+Which AI tools are you using in your workflow?
+"Do ChatGPT or any AI content generation tools generate (except the universal topics) different content on the same topics based on the user IP, Cookie, and Proxy, or just either IP or Proxy and cookies?"
+What is the introductory AI software that is used for command promotion or about activities that a command-promoted AI software can perform?
+"In what ways can software engineers balance competing priorities such as time-to-market and product quality, and what tradeoffs might they need to make to meet these goals?"
+What criteria do you consider when evaluating whether to hire a software developer with expertise in a different domain and proficiency in a different tech stack than your current team? How would you integrate them into the team?
+What is the best free order tracking software?
+What purposes does JSdelivr OSS use for?
+Are Al and ML tools the innovations of programmatic automation?
+Do you know who the users of biztools.corp.Google.com are?
+What are the core components of website UX checklists?
+Will ChatGPT replace programmers?
+"Is it true that the software developed in the last 10-15 years is of worse quality than the one developed 20, 30, or even 40 years ago?"
+What is the command line toolkit (CLI)?
+How do I pass the AWS cloud practitioner exam?
+Which programming language do we deploy in our web assets considering the present and future trends and demand?
+"Before designing the UX, what should I follow to build a better UX?"
+"If you want to become a UI/UX designer, what course is more valuable to you?"
+What are the authentic sources to know about ChatGPT or any AI generated content?
+"My manager has told me ""sometimes reusability is overrated."" Does he have a point?"
+"Why do so many large IT projects fail to meet expectations, exceed budgets and/or surpass deadlines?"
+What is the best way to gather/capture requirements? How do you make sure you capture all scenarios? What are the best practices for requirements analysis?
+How does encapsulation in object-oriented programming help to improve code maintainability and security?
+What software development methodology do you use and why?
+How does a full-stack developer roadmap look?
+Should I become a Java developer in 2023?
+Are there courses on developing your own EVM smart contract blockchain and a gui node software client and be able to deploy smart contracts on your own blockchain and be able to mint or burn tokens on your own blockchain?
+"Between Python and R programming, which is more useful in calculations?"
+What makes a good game development or programming guide? What are some of your favorites?
+"In many (perhaps all) high level languages, strictly speaking, isn’t every data type (e.g. int) an abstract data type, in the sense that a high-level language hides the complexities of how any data type is actually represented at the machine level?"
+How do you read source code of a large project fast?
+"As a software engineer, is it considered ""cheating"" to use OpenAI's ChatGPT to aid me complete coding tasks? Should I write them by hand?"
+"If I was an undergraduate high school student but I was good at programming and have a good portfolio, could I find and apply for a job?"
+Why do people like React over raw JavaScript?
+"If digital marketing tools and AI software provide enough digital marketing insights, then why do we need to learn a programming language like Python for data research?"
+What is the Spring AOT feature?
+"I want to scrap data like a pro but I don't have data analysis expertise. In that case, do I need to take courses in data analysis or data scraping to be a professional data scraper?"
+"If Google crawl bots consider indexing UGC, and Natural activities surrounding content from development, optimization, publishing, and Marketing, then how do you think AI tools will dominate the Digital Marketplace, i.e., SEO, SEM, SMM?"
+How do I implement a web API on my website?
+How do I make an HTTP request in JavaScript?
+"The most common job satisfaction six pillars are well paid, mentored, challenged, promoted, appreciated, and trusted but how many employers or companies follow these six pillars to nurture the employee's job satisfaction?"
+How do I run PyScript within HTML?
+"What did you expect to be, but what have you been in practical or professional life?"
+What is the Broadcom markup HTML code example?
+What are the tricky tricks to writing professional content?
+"No minimum, no upper, within medium budget for digital marketing, I decide to hire a complete package digital marketing strategist, but whom and how do I hire?"
+How do you input ALT text in an embedded file like an input PDF file in a website or blog?
+What web development work does front-end developer do?
+"Which programming projects fork is widely in demand and common according to you, and why?"
+I’ve seen that many software engineers have mixed feelings when it comes to certifications. What do you think about Azure certifications?
+"Should you write reusable code or write code that fits the use case? Whenever I start to design my classes, I start thinking about re-usability and then I start creating more classes. What's the right way of designing classes?"
+"Will technology like AWS, Firebase, and Docker take backend engineers' jobs? Is the future of backend engineers dark?"
+"What books do you recommend to be a better programmer? That is, not necessarily any of a programming language, but rather software design or even some historical computer science book."
+What is the best video for learning everything under HTML and CSS?
+"Is the future of manufacturing smart IT systems and developing IT programming of software and app development including mashines, going to introduce smart programming communication language whose general information can not be fetched with strangers?"
+Why is outsourcing software development a good idea?
+I'm a beginner in programming and I'm learning JS. I'm thirteen years old and I don't know what to do. I think I want to be a back-ned dev but idk how to start. What to do?
+"How can one share or market his or her personal programming discoveries to people with experience in software engineering and app development, besides selling his/her personal discoveries?"
+"In a span of 8 months, can I learn coding, web development, calculus, differential equations, science, physics, investment, and FI, at least to a good extent?"
+"Is it possible to know all possible defects in a program before I write a single line of code? (i.e To detect a bug during the designing and planning stage itself.) If yes, what are the strategies used by the professionals?"
+How much planning should be done on paper for code design before writing a single line of code for the program?
+What is a good computer software controlled Short Wave radio?
+What are some techniques for mental stamina as a software engineer? What do you do to keep your focus and quality consistently high while at work?
+How do I edit a back-end HTML code in Wix?
+"If after ""."" three characters define a domain suffix, then why do we call .CSV, .PDF, .JPG, .PNG a file format instead of calling those three characters the domain suffix?"
+Why do some of the web pages I see have controls with script showing? Such as: {{shulcloud_footer_right}}?
+"Since Rust has a the best way for memory management, why don't C, C++, C#, Java, Go, PHP, Python, Ruby and so many languages have that intelligent brilliance?"
+How can I convince my bosses that getting an Azure certification as a software engineer is a waste of time?
+How can I create a webscraper that allows users to migrate their website from one website builder (Wix) to another (square space/Shopify)?
+Can a coder create their own data bundles to access the internet?
+"Why is learning code important these days, regardless of the career you studied?"
+What codes will a front-end developer write in a UI/UX design for a website?
+"Which software code is most suitable for someone with technical coding experience, to write a language app that answers simple questions?"
+How many types of CC are available now?
+Can I use Blazor Hybrid to build a social media application?
+"Sorts an array of n elements by finding the smallest and largest elements and then exchanges those elements with the elements in the first and last positions in the array. Then the size of the array is reduced by two elements after excluding the two elements that are already in the proper positions, and the process is repeated on the remaining part of the array until the entire array is sorted."
+"It is possible to locate the memory location of a variable in C programming, but is it possible to located the assigned bits of that memory location? If yes, then how?"
+How can I use a parameter query in Access 2016 without using a queryDef?
+What are the advantages and disadvantages of a binary number system?
+"Can't remember name of this website, it allowed you to record a programming video that you could then pause to change the code and test/play around with it. Anyone know what I'm talking about?"
+How do I acquire the mindset of a seasoned frontend developer?
+"I want to get either an M2 MacBook Air or the 13"" M2 Macbook Pro. Which do you think is best for programming and what storage size should be good for me?"
+Is there a course for me to learn how to build an app that can connect to my laptop and automate it and also I can manually open programs using a GUI that I can see on my iPhone or Android when I’m far from home?
+How can I develop a high TPS decentralised public blockchain that can store file saves in the user’s crypto wallet and be able to extract and import file into a program?
+What is the best way to start learning basic electronics? Is it worth it to buy and use Arduino learning kits? What other products would be useful in your opinion?
+"In management skills, what is the difference between Pip and PDP?"
+What should I do for a computer science project VR app?
+What are the timelines of Linux from 2000 to 2022?
+What is a unique function I can add to make the DesignHub community space better?
+How can I create a game using Lua without the use of game engines?
+What are some unique ideas for a web application for my final year project?
+"What software will you suggest for tracking all projects in a year. I want to track their timelines on weekly basis, forecast resource requirements and give a visual representation of annual projects and timelines?"
+"Do you recommend ""C++ All in One for Dummies"" for beginners to learn C++? Most people recommend ""C++ Primer"", but it does not teach you the latest C++ 20 and it looks intimidating to a beginner. The ""For dummies"" book has neither of these problems."
+"If you make your own computer, can I make it do 16k resolution?"
+What practices help to minimize software bugs?
+What is the introduction to AMU in computing?
+Is it okay to shift from civil engineering after graduation to software development (big data) ? (25 years old)
+"How do you write an assembly language program that will cause a moving message display to move backward, assuming you have eight LEDs using the long method?"
+My Dream is To be Full Stack developer But Nowadays Learning CSS wanna learn ReactjS and for Office job Demand is Complete Customization with PHP Wordpress. I am Confuse Where From I Can Start Or What should be roadmap for this?
+What is the best algorithm for a product filter in an e-commerce site?
+What are projects that can be done with sort algorithms (JavaScript particularly)?
+"What is the recommended programming language to develop a big data system (millions of data), Node.js, Golang, Python, or another?"
+Why is print (“10”>”010”) outputting true in Phyton?
+How can I find a coding internship online?
+Can you take a value from a text file and give it to a variable in C?
+How do I develop aviation RAT-G systems?
+Who is the programmer that you admire the most for their open source contributions?
+"When prototyping using Arduino, while using Arduino's software and IDE, do you need knowledge of assembly language, or only C and C++ languages?"
+How do I create a game without a game engine in C++?
+Design by contract seems to be a powerful way of proving program correctness; why is it not widely used/popular in the software industry?
+"As a software developer, what percentage of the day are you actually coding?"
+"As a software engineer, how do you know when you’re over-engineering your code and should stop?"
+"What counts as witchcraft at C, C++, Phyton, Java, Scratch, and HTML?"
+How do I show the output of a program in a Qt designer by using Python?
+What coding languages would I need to know to create AR glasses from scratch? How do I create my own software for it to run on?
+"I want to learn about software development and hardware deeply. What subject should I choose, computer science or computer engineering?"
+How should I name a JavaScript variable that contains an HTML document element that represents another JavaScript variable?
+"I see a lot of people wanting to build a CPU’s, learn how computers work from the basics including me. Information feels so overwhelming. Sometimes feels impossible. Can we have a community where we can discuss and share ideas on this?"
+What are good resources for a freshman in high school wanting to get into the computer science/coding field (who has never coded)?
+What are the best approaches to write code with very few bugs?
+How long is a variable name acceptable in programming?
+"What programming language/framework is specifically made for machine learning, considering Python was specifically made as a side project?"
+What do you do to lift your spirits after a failed whiteboard interview?
+How reliable of a measure is the number of lines of code written in determining a programmer's experience and ability?
+Is getting a master in software engineering better than a bachelor in getting more knowledge and job opportunities?
+"Can a relational database also be considered an API just like other APIs such as weather APIs, etc.?"
+How can you program a chess game using JavaScript?
+"So if I miss programming for a few days, it doesn't affect my programming?"
+How do I format a write protected SD card using a command prompt?
+Could someone explain SQL to me like I am 3 years old?
+"As an IT student, how are you going to secure a database?"
+Can I get work in the data analytics field if I didn't graduate in computer science but take some courses and make projects and have very good fundamental knowledge?
+How can I work for you as an employee if we're designers and programmers?
+How can I get code in a Palmpay funds adder?
+Should I learn C/C++/Java to work with FANNG companies?
+Why should a phone number send me a verification code?
+What is the significance of learning React as a framework? Is it worth it or not?
+"How could you make one virtual machine, with an operating system using the resources of 30 mostly different physical machines? Does a Beowulf cluster or parallel computing become too degraded on such a diverse platform?"
+What is the importance of Microsoft Access in your future career?
+"Why is the Beginner’s All Purpose Symbolic Instruction Code (a.k.a BASIC), held in such disdain as a computer programming language?"
+What is the best road map to learn React from the beginning to the master level?
+"Will there ever be a time and place where a cybernetic existence will be able to program, monitor, debug, and secure websites, or web pages for their human counterparts in a business entity?"
+"Ultimately, does every programmer learn to transition their skills from the confines of a 2D 'SCREEN' to understanding the 3D reality around them is also programmable, their own minds being the computer they have always been programming?"
+"Which career option to choose has a better future, automated QA software testing or low-code applications like Appian?"
+What situations can make you feel under appreciated as a developer?
+What do hiring managers like hearing from candidates?
+I have a Gaussian mixture model. How do I create random numbers from that model in Python?
+"Is it possible to upload a file as a compressed format? Let's say I am doing a live video, as a programmer, how can that video be uploaded immediately to some cloud storage in a compressed format? What language can be used?"
+How do I add structured data?
+What is the most common implemented code smell by intermediate level programmers?
+What is the easiest way to get fired as a software engineer?
+Do programmers just sit in front of their computers and start writing code? How do they know what their next line should be?
+How do the best programmers write programs? Do they reason the program out formally on paper before stepping up to a computer?
+What esoteric programming language should software engineers know more about?
+Why does Linus Torvald post hate comments on every language (Java XML C++) besides the C language? Is he paranoid?
+"Hey there folks, one problem I faced the 3rd time while doing my portfolio project for Data Analysis in that I don't understand how I should ask the necessary question because I have done unnecesaary visualizations which adds to nothing to the meaning of the data. What do the good Data Analyst have what I don't to understand the data?"
+How can I truly be good at something that's hard?
+How do I start learning about Cyber security?
+I quit my call center job because of pharyngitis and reflux. Is going back to academic studies (they use their voice actively) dangerous or would learning coding be better to do freelance work?
+Why is it really hard to find working student jobs or internships without experience related to my master’s program in Germany?
+What questions do self-taught developers have when trying to purchase an online Python course?
+Is the world of software still able to make billionaires?
+"If I know C#, what language is easier to learn next to create mobile apps, Java or Swift (excluding Xamarin)?"
+I’m a job hopper. Will this be a big deal for my application at Google as a software engineer?
+How do I develop an Android keyboard?
+What are the best entry-level jobs for a new freelancer?
+Which programing language should I learn? 1 Pathon 2 JavaScript
+Will you take a job offer as a developer from a bank that is willing to triple the salary you earn at your current software company?
+"How do I make hidden images stay visible even after the page is refreshed, using JavaScript?"
+Why is computer science knowledge so broad and scattered? Everyone has different ways of doing things.
+"I want to be a freelance web developer, what legal aspects should I take into account when doing business with my clients and when building the site?"
+How do I substitute lists in list?
+"Where can I go online to learn coding and game development as a senior citizen? I just turned 60 last month, and I STILL LOVE video games! I prefer free online courses to learn coding/game development…if only as a hobby, or maybe a ""side-hustle"". Please help me, if you will. Thank you in advance."
+"What do you think of Atwood's law: Any application that can be written in JavaScript, will eventually be written in JavaScript?"
+Which programming language is the most beneficial for automated software testing between Java and Python?
+What is the difference between QA automation engineer and software developer engineer in Test?
+Write a pseudocode of an algorithm to calculate fahrenheit value of temperature if Celsius value is given as (f)-32/180=(c) /100?
+Which bachelor's degree is more beneficial between business management or information technology management for business to have?
+Did InnerCircleTrader really code the Forex algorithm?
+What is the best programming tool or area that is best for both learning and generating a small but consistent income quickly?
+"How do I make custom installer for a game like these installers of ""fitgirl repacks"" for example?"
+How do I express a square root operator using only the 4 basic operators?
+How do you minimize feelings of impostor syndrome when learning to code in a new programming language?
+What programming language can pay my bills in 2022 and further years to come?
+How do I build an A.I. human-like machine from scratch? What are all the steps and skills that are required?
+MySqli or PDO?
+Can a neural network work with negative and zero inputs? What are some examples of such scenarios?
+How do you create a method returns list in Python OOP?
+"What is your opinion? Should a person start a programming field with fundamentals (data structure, algorithms, etc.) or learn directly (React, Vue.js, etc.), and why?"
+How do I run a Python script that has custom modules with Python not being locally installed so through a USB?
+How would I get the WMI Python module to display all users and their permission level (admin non-admin)?
+How do I run Windows updates using Python?
+What is your say in the improvement of speed by 50% on development of AI by the creative software companies?
+How does distributed hash table propagation and bootstrapping work when adding a file in IPFS (details in comments)?
+How exactly does DHT propagation and bootstrapping work when adding a file in IPFS (details in comments)?
+There are more than 7000 national/local languages in the world. How can I make a platform in which there will be more than seven thousand languages' language instructors?
+"Is a master’s degree worth it for junior software developers. If not, are there any good alternatives to increase your value?"
+Is it hard to organize your time?
+"What is better for programming, a laptop or a computer?"
+"Are AI’s artificial neural networks all coding, programming, and/or algorithms?"
+"Being a software developer, what is your challenge? Is it brand marketing or just product or service marketing?"
+"What does ""code"": 2500 mean in Meta Graph API Explorer?"
+"In a website template in the background code, is there any chance of having the spyware tag in coding that may help the hackers to hack a website?"
+What are some of the top Quora algorithm's best practices?
+I'm 16 years old and I want to get a job as a software engineer. There is a career at my local university called Computer engineering. Will a degree on that hel me get a job as a software engineer?
+"How fast are the coders at companies like Google, Amazon, Microsoft and others (in terms of LOC, features done, function/story points delivered, or any other metrics)?"
+Which is the easiest language to program in for generating an Excel file with tables and Gantt charts?
+How do I create a public website accessible from anywhere on the Earth on Raspberry Pi 4?
+"What are the things I should consider when deciding if I want to be a Web developer or a software engineer? I also have an impression that it is easier to become a web developer (easier to replace?) than a software engineer, please correct me if I am wrong."
+How has the microservices architecture done in the decade or so that it has been around? What is the way forward for microservices?
+What are the five(5) coding schemes and give examples of each? What are some of the problems associated with general ledger systems that do not have data coding schemes? What are some useful guidelines that will result in a better coding system?
+"Why is the final cell in my Excel program XFD1048576? Is this for a computational reason (must be?), or has the final cell been chosen arbitrarily?"
+What tactics do hackers use to prompt someone to make a poor decision?
+Why do most VFX studios prefer offline render programs compared to real-time render programs?
+Would I know how to develop a mobile app if I take a full stack program- JavaScript?
+"Which will offer you more job opportunities as a full-stack web developer, expertise in just one stack, or intermediate in several?"
+"Which database management tool is more suitable for a c/c++ project (MySQL, SQL server or Posgresql)?"
+What frustrates you the most when it comes to debugging?
+"Hello Everyone! i am student of Software Engineering and have a great passion to persue new skills and go in hand in hand with the old tools still acceptably dedicated before innovation, i have to enquire about JAVA especially the Spring Framework with J2EE for microservices to learn and master, is it worth attention? guide me would it be valuable to add this in my skill line , working on metadata repositories for large projects,
+Plz?"
+What does the programming language R provide that other languages don't?
+"If a compiler's main task is to turn high-level code into low-level code and then into assembly code, why are there so many different compilers for one programming language?"
+Which are some good 'directories' of frameworks and tools used for different purposes in the software industry?
+What are the Firebase Crashlytics key capabilities?
+I’m a junior software engineer and I have noticed that I solve my tasks very slow and this is bad for my self-confidence. What should I do?
+"Are there any C++ only programmers out there who have managed to figure out C++/WinRT? If so, where did you find your information?"
+Is C++ still worth learning? Should you learn C++ or Java in 2022?
+Are getters and setters void?
+Do Java threads run in parallel? How does multithreading work in Java?
+How do you screenshoot (full length) emails from a specific inbox in bulk or automatically every time an email comes? Do you have any software or script ideas?
+"Programmers, you have an amazing job opportunity but there's a catch. Strange coding requirement changes are dictated by management weekly. One week is goto's and no if's or for's, the next is notation obfuscation week, etc. Do you take the job?"
+"As a FAANG SWE, what kind of applications do you work on using algorithms, trees, graphs, and dynamic programming in your projects?"
+What is geo-targeting in CloudFront?
+How do you create a dynamic array of structures in the C programming language? What is the use of it?
+"Python Hello, how can I create a pool of 99 threads, and start 10 ten threads, if any thread of those 10 threads finishes it's execution, the remaining thread from the pool should start to make 10 thread running at any time till all the threads runs?"
+What are the best libraries to generate an NFT code?
+What is the best way to learn python for someone with no programming backgrounds?
+Why are all computer programmers big nerds?
+Can you mix React and PHP together whereas the PHP is the backend?
+"I was confused on how people build UI's to be used with python code, do you use other coding languages such as HTML or CSS to build it, and are there any useful videos to explain this?"
+Can you have multiple Gitignore files?
+Is knowing how to use CSS and HTML 5 enough to become a front end web developer or do I need to learn Java-script?
+"What do I do if I was hired to do a job using technology stack and when I joined, I realized they use different technology stack than agreed on?"
+What do software engineers do after finishing a software with no more coming up in a company?
+Humanity’s logic is based on “what is evident” which always includes the physical world. Such is the basis model provided by nature for humanity’s minds to analyze & make use of. Can AI be provided a different basis model upon its creation & ongoing?
+How do I do a proper readme file so that a user can perform the necessary steps to run an executable file?
+How do frontend engineers think? What do they prioritise? What interests them? What kind of videos do they watch on YouTube? What are they trying to be better at? I want to be a frontend Android engineer.
+"I have a question about a serious problem. I have been learning to code on my own for a while, just reading books and youtube videos. But recently I decided to give Harvard's CS50 a try, and that's when I have a serious procrastinating problem. Is there a way to beat this problem because it's really holding me back?"
+How do I decompile .dll files?
+"When I hover over an HTML element, a specific color covers the whole element but not suddenly, it appears from left to right. How to accomplish this using CSS?"
+"What were your biggest coding challenges that you took at work and helped you in the Google, Microsoft, Facebook, etc. interview?"
+"Besides C#, is it necessary to learn another programming language to get interviews at Google, Microsoft, etc.?"
+"Is it enough learning Node.js to be a backend developer, or is there another concept that l have to learn?"
+What is the syntax for creating a list?
+What are 5 must have skills (Soft & Hard skills) for anyone who sets out to teach themselves coding & or programming in order to become hireable?
+How can I become a self-taught sofware engineer and where to start any roadmaps?
+"When it comes to backend development, how much is concurrency important for platform scalability? Does it mean a lot or is it only a small perk?"
+How do I learn new tech stacks in a short time? I know the fundamentals of programming and relational database. I landed my first job as a software developer.
+What python libraries should I focus on learning for entry level freelance in data science/analytics and how much of those libraries should I know?
+What can an 18-year-old who just graduated from coding bootcamp (full stack web and software engineer) do to land a coding boot camp job?
+What are the programs that an expert hacker should always have on his computer?
+How do websites use cookies?
+Can the readme.MD file for the front-end and back-end have the same content?
+What class in high school teaches you how to program/code and what major in college teaches you how to program/code?
+Is there really a 'self-taught programmer'? Or we mean to say we learn how to code through intense personal research and practice 🤔?
+How can I start writing a rootkit in C? Where can I find guides that can teach me? There are guides but they are not enough.
+How did programmers create computer languages?
+What language is easiest to program an Android cell phone to navigate a robot around on a table?
+"How can I build an antivirus with programming languages like C, C++, Java, Python or Assembly?"
+Do the male and female voices on Google Assistant have male and female artificial intelligence or are they just one basic program?
+How does Golang handle and use single and double pointers as compared to C/C++?
+Which of the programming languages can be critical at times?
+I am looking to learn the MERN stack. Is there any programming bootcamp that has a specialized training program on the MERN stack?
+What skills are most important to becoming a Full stack developer in order of priority?
+How do I start learning programming? What is the shortest time I need to be good?
+What tech stack do you use often?
+"Programmers, do you ever consider written and spoken English to be a form of programming?"
+Why is it necessary to treat integers and floating point numbers differently?
+What are some of the most useful websites a web developer must know about?
+How hard is it to transition from a mechanical engineering background to web development?
+Is there an online marketplace to sell software program ideas to programmers or investors? I have some well-developed and high-demand designs but don't have the money or skills to develop them.
+What are web servers used for?
+People skills are the most important skills a senior programmer can have. Would you agree or disagree with this statement?
+Are programmers who engage in 'promiscuous mode' in their personal lives more effective than their conservative peers?
+Are programmers the new world's equivalent of lawyers?
+Getters are methods that return a variable. Setters are methods that set a variable. What are with-ers?
+What are some beginner resources to learn programming/game development at home?
+"What are some good resources (books, websites, etc.) that I can learn about color that is rendered digitally, and the algorithms used to power color models (i.e. RGB, HSV, HSL, CIELAB, and CIELUV)?"
+Do you think bootcamps are any good for beginners?
+What’s the worst app you’ve developed personally?
+"In machine learning/data science, there are ETL processes that process huge amount of data. In these cases, we may want a fast language with parallel abilities. If so, why is Python the first choice for ML? Java/Go can be a better fit."
+Are all APIs headless?
+What is headless deployment in software engineering?
+"After learning the basics of python, what do I have to focus on next if I want to learn different disciplines such as data science or cybersecurity?"
+Do I focus on libraries in Python that correlate to the business or company I want to work for or learn the need-to-know libraries for different disciplines like data science?
+Is it possible to find the largest cuboid in a 3D histogram in O(N^3)? It is well known that the largest rectangle in the 2D case can be found in O(N^2).
+"Should I use any other resource (textbook, course or something else) during my FreeCodeCamp learning journey? I think it will last long and maybe I need some fundamental textbooks alone with it to grasp CS easily?"
+"What are the cons of starting programming with FreeCodeCamp (not using additional textbooks, courses like CS50) and how can I fill gaps created by relying only to FreeCode camp?"
+"How do I create a computer programming with short codes, and what are the best examples?"
+Can I get a software developer job with a Udemy course degree? I learned full-stack development and Python mastery with app building on there.
+"What are the other options for creating a Python based web service and hosting in IIS, other than using a Flask based app?"
+"How can I build a Repository of research articles, abstracts and books (Library information system) with search panel from the scratch without using a CMS? How can I populate it with data?"
+Can computer language compilers create Windows for running codes using graphics?
+What do programming languages for quantum computers look like?
+I am going to start programming from scratch. The resource I will use is freeCodeCamp curriculum. Are there any other resources that offer much better learning options in the long term?
+Is it worthwhile to learn programming?
+What are the 8 key roles and responsibilities to build a great game development?
+"Which technology should I go for enterprise software development between Spring Boot and .NET core by considering factors like security, performance, scalability, and so many other factors?"
+Are there good foundational textbook(s) which are certainly better than courses for beginner programming learners? I want to start from FreeCodeCamp but maybe there are better resources than it?
+"How do I build a visual data mapper like DataWeave or AtlasMap in Java or JS? Purpose is to map from one schema to another (XML, JSON, EDI, etc.) with the ability to execute functions between them, any suggestions on how would I go about it?"
+"How did software engineers manage to level up or train their problem solving skills? Did they practice on LeetCode, HackerRank, etc.?"
+"I wish to becomm a solidity programmer and work in/with blockchain technology. I am currently learning Javascript. How much (or long @ on ave 3 hrs/day x 5 per week) JS should I learn before moving on to Solidity. And also, what are some relevant resources for me to utilize?"
+How do I write high uptime software that can be atomically updated without downtime?
+"Using OpenGL, write a program that draws a circle using Bresenham circle drawing algorithm: The parameters for the circle are as follows – the radius should be 4 Centimeters and the starting point coordinates are (3,5)?"
+"AI can produce seemingly humanlike conversation, poetry and images. But are the capabilities of AI we are used, for example, from Sci-Fi movies far away from realization in practical businesses?"
+How do I learn how to develop an operating system?
+How do I learn data analysis?
+"What is the hardest thing when coding? For me it's debugging, but for all of you, what is it?"
+Is there any Girl who do coding stuff from Nepal😏?
+What are the introductory things about software engineering?
+Please what are the best programming languages to build a mobile operating system?
+How much time is required to learn backend web development?
+Which skills are sought after in a low code developer and how long would it take a complete beginner to learn them and be hired?
+What algorithms should one learn to increase the rating in Codeforces?
+"Where can I find sources to learn programming (C or Python) as a beginner, preferably for free? If you have any tips or hacks please let me know."
+Are the basic concepts of inter process communication using signals in Linux using C/C++ and virtual memory management just developed more to make Golang and Erlang multiprocessing on many computers OR completely new paradigms are used?
+What is the best coding & or programming language to learn in terms of pay? & Why?
+"AWS architect, SysOps, or developer - Which programming language would you use the most for these positions?"
+How do you determine transaction categories using machine learning and natural language processing?
+I got discouraged because I can’t even solve the easiest algorithm problems. Will it be a good idea to look at the solution first and then try to solve the problems? Do you have any other tips?
+Is there any web/app developer that's an expert in Graph QL?
+Is it possible to create a full stack application using C++?
+How can I study the C++ programming book without wasting time on unnecessary stuff? I am currently reading C++ Programming Program Design including data structure.
+What are wave and traversal algorithms in a distributed system in a nutshell? I find those difficult to grasp.
+Is it possible to execute a local file or code from cURL?
+I have read the C++ book by Robert Lafore. What other best books are there with more deep concepts and good examples as a teaching aid?
+How do you decode hex messages in C++ (feel free to provide examples)?
+"As someone new to programming, how do I know that I have fully understood Python syntax and I'm ready to move on to the next step in learning Python?"
+Why is it so difficult to maintain a LeetCode streak?
+"Before compiling, do you cross check the code written by you by running it in your mind and check if it has defects/bugs?"
+"If I want to build a website (a library of books that I upload and can switch between books), what do I need to learn for it?"
+"Why is Log4J so easily hacked, and how do we fix it?"
+Is there a way to replace linked images in Illustrator through a script?
+Will Opera GX be made available for Linux operating-systems in the future?
+"What should I learn about programming to create a program that takes open data from a platform like ""binance"" like previous days values and store it in my hard drive in a notepad or excel or any way?"
+What percentage of the software in an electronic vehicle such as Tesla or other smart cars relies on third-party software? What about the embedded systems (firmware)?
+What is your review of Haskell (programming language)?
+"If you take out the processor-chip from a computer (when it is turned off), would this have the effect of resetting the machine (once put back in)?"
+"Is there any good website, book, or something that I can take practical examples for coding C++ and Java?"
+I have been trying to get certified in web design and development from a platform online and it's just not going the way I expected. Pls are there any other platforms or sites that can help me get certified?
+"I am planning a master's degree, but my friend told me to go to coding bootcamp. Do you think it's worth it?"
+What are the best websites where I can find internships related to web development?
+What is difference between a web designer and a web developer?
+"Did we really need to learn C++, and is it still relevant today?"
+"What tools would I need to develop a complete PC software (beautiful UI, functionality and all) and not some cheap hello world .exe file?"
+"I wish to becomm a solidity programmer and work in/with blockchain technology. I am currently learning Javascript. How much (or long @ on ave 3 hrs/day x 5 per week) JS should I learn before moving on to Solidity. And also, what are some relevant resources for me to utilize?"
+Please what are the best programming languages to build a mobile operating system?
+How can I find a selector that I can I use with Cypress end-to-end testing main while the app code is changing?
+How can I create a GPT website?
+What can I do in the ARIS Toolset program?
+"For the first time in more than 20 years, the python programming language has overtaken Java, Javascript and C as the most popular language. Does this victory necessarily indicate that python is the best programming language of all time?"
+Why are there so few desktop applications compared to mobile and web applications?
+"Is the code you wrote legacy code at this time since you wrote it? If not, how did you prevent it from becoming legacy code?"
+Why is it unsafe to install Requests /perform request functions directly from Root User and safer with a virtual environment (within terminal)?
+What do I need to be good with in BCL and programming before starting learning the C# framework?
+How do I effectively study what I learned in a coding class?
+Is HSK 1 difficult? Is it possible to learn it in under 1 year?
+Which code in Python could I use to sort files to save time?
+Can I find a job as a developer without a degree?
+What outdated programming language do you wish would return?
+What web development programming language is Morning Brew written on?
+Will GitHub Copilot replace software developers in the future?
+"Are JavaScript and C++ still worth learning, or is Python going to replace them?"
+How did you create a very responsive GUI? Did you use threading or immediate mode rendering? What multithreading architecture did you use to avoid blocking the GUI thread?
+Is Haskell a good programming language?
+How can I get a sponsorship to study cyber security abroad? I already have solid skills in programming and software development.
+What projects have you built with programming so far?
+Are there any tools that explain things in a more direct way or multiple ways so it can be understood by everyone?
+Programmers - have you ever analyzed fictional TV shows as alternate realities and the computer screens within as indicative of how they collectively understand computing to better understand the development of science and technology there?
+Is everything you can think about possible in programming?
+What should I learn first between app development and UI/UX since they both work well together?
+Am I alone who think most full-stack developers tend to do better frontend than frontend developers and better backend than backend developers?
+Can I use Firebase instead of learning PHP for my website?
+What is the best programming language to start with as a beginner?
+"How is LeetCode difficult, and how is it used in a practical way?"
+"If Rust is garbage collected, then why is it so fast?"
+"How can I do a Google Form feature where I can add new form fields and use that form for later, in HTML, CSS, JS, or whatever I need?"
+How do you git diff a specific file or directory between two commits?
+What is the latest example of the Turing pattern showing up in nature?
+Why do most states encourage their civilians to learn programming?
+What is the greatest enemy of technology and knowledge?
+How many requests per second do you get on your non-statically generated front-end?
+How does a software tester define a software bug?
+How can I be a learning machine?
+Does competitive programming make you a better programmer?
+Is it a best practice to run a master and a slave JVM to get the slave JVM's exit code?
+How dominant is reflective programming in computer science? Is it something that is well understood and frequently used? Or is it more of an undeveloped but potentially powerful method of computer programming?
+"What's better on long and short term, WordPress or other web builders if you have no coding skills?"
+What things do you consider while choosing for a software company?
+What is the road map of a self-taught C++ programmer?
+What are the best resources for beginners in machine learning?
+"Are there any algorithms for comprehension implementations “in the works” and are for the purpose of enabling AI to be able to figure out the driving forces behind many, almost all, or all behaviors that it observes from non-AI others?"
+What should I consider before choosing programming as a career?
+What are the uses of the get and post methods of HTTP?
+"What would be a piece of software or extension/plugin or driver that has not been created yet that can be lucritave; in additon, are free softwares driven on donations really sustainable for financially living?"
+"Outline any five items typically included in program documentation, including its purpose and whether it is intended for users or maintenance staff?"
+What is a monumental task that would drastically improve performance when applied in computer programming but has yet to be done (like for example properly utilizing multithreading in software desogned for single core processors)?
+"Anyone will like to share their experiences in C / C++/ C#/ Java whereby writing the large code base ""from scratch"" was the only option after trying to fix it for months? In which situations did it happen (poor documentation or a team change)?"
+"Write an algorithm that reads an integer from the user, then says whether or not the number is both a perfect square number and a perfect factorial number?"
+What is the best alternative for high school degree to grasp must know concepts for beginner programmer? I can not attend CS degree but also want to start to learn programming from the best existing resources.
+"I'm a beginner in JavaScript. I can't seem to use addEventListener() on a variable that's defined by getElementbyClassName(), what could be causing this problem?"
+Where can I download Python for my PC?
+Write a c program to find the reverse of an integer number?
+What programming concepts can be used in real life?
+"I'm getting back into website development after a few years, and I'm trying to make a blog website for a customer. How can I make a user friendly blog GUI? (Visual Studio Code)"
+Would I gain a better understanding of assembly if I learned a low level language like C as opposed to a higher one like Python?
+"Is basic lower than C, and is there a basic equivalent for x86?"
+"Programmers, how would you approach creating a perfectly simulated Los Angeles circa 1955 that one could make changes to and simulate the city, people, cultural, and technological development that occurs for any subsequent year after that?"
+"AS a programmer, two personal rules I live by for any professional work I've ever done is to always code up a backdoor and always leave an Easter Egg. Programmers, do you have any personal rules you apply to your work that may be frowned upon?"
+What is the best mobile app to write code and learn code for JavaScript and PHP?
+Why does 'this' network have a network address of 0.0.0.0/8 and broadcast address of 255.255.255.255?
+What will computer code look like in the future?
+What is the best way to get the most accurate distance between two coordinates using JavaScript?
+How long should it take to master data structures and algorithms?
+"What is functional programming, and when can it be used?"
+Should I learn a whole programming language like C++ or learn only the basics?
+What are the good books or courses about computer science you would recommend?
+"Which is the best engagement API, and why?"
+How do you pull code from Git without losing local changes?
+"How are artificial intelligence, emotional intelligence, and machine learning helping humans lead life easier?"
+How are artificial intelligence and machine learning affecting people?
+How does artificial intelligence affect human life?
+Can you use Ethernet instead of a coax?
+"What are the top best data visualization tools, apps or software?"
+Does the Apple search engine have an extensive version of the Safari browser?
+What are some fundamental courses to learn computer programming?
+"How long do I have to wait, before I see the answer to a problem in programming?"
+What are the best courses to learn how to build websites for all browsers?
+"How do I identify an application that has been used, accessing local resources or external resources by looking at logs or any other method?"
+"If code is the new gold and programmers are the miners of this new gold, does it mean that programmers should be paid less since in the real world miners are also paid pennies for their effort?"
+What course is better for the future? 1. Computer Science 2. Software engineering
+What's something like Code Wars but for beginners?
+Can anyone help me understand discrete structures?
+"Front end Vs back end web development, what is the difference?"
+Apart from GTK+ what other GUI Framework has CSS support?
+"What are operating system's alarms, and how do they work?"
+How do I make progress as a full stack Android developer?
+Who is a QA developer for work?
+"I learned Java basics in 1st year of uni, I'm moving on to C, C++ and C# next year. Over the next few months I would like to introduce myself to these languages first. What should I start with, C or C++?"
+What is a good plan for studying programming again after collecting knowledge and information about all the fields in the domain?
+"Hi everyone. Can anyone recommend websites, books, video materials (Udemy, Coursera; YouTube playlists) to learn Front End Web Development from scratch. Can you also advise me roadmap? For instance, which topics I should cover in HTML and etc."
+"Whenever an array is empty and I write random index numbers to get output, it shows some random number/s(C++). What are these numbers?"
+How long will it take not just to learn but to master full stack from scratch?
+Is it necessary to know back-end programming to be able to use and build APIs?
+How do you implement DDD or similar architectures with a ReactJS Web UI when the main part of your business logic lives in the server/backend that is not written in JS/TS?
+What does it take to become artificial intelligence programming freelancer? Except skills of course. How to be professional or get high chances in getting many projects or working remotely for companies?
+Where can I find a community that has enough C# skills and gaming experience that can playtest and give feedback for a mobile game I made?
+Am I wasting my time learning C++ if I’m trying to be employed by the beginning of 2023 and I’ve only been learning for 2 months?
+"What does a software engineer do other than building software products, running network control systems, and testing new software programs?"
+What does Elon Musk mean by “open source” when it comes to Twitter’s algorithm? What will users see?
+What is the best alternative for high school degree to grasp must know concepts for beginner programmer? I can not attend CS degree but also want to start to learn programming from the best existing resources that will provide me with good knowledge
+"Why would the answers from a developer such as myself, with 20 years experience, get Automatically Declined 12 times out 15 in this group?"
+"Genuine question, I struggle to find a plan for coding, I have JavaScript down through Ap csp, HTML, some databases and taking Python. Where should I go from here and/or how should I format my learning given an hour a day?"
+You're back in time and you just finished studying data structures and algorithms. What will you do next?
+"Corporate developers, do you ever leverage observations of the implementation of the video games you play and then find unique ways to cross apply the ideas to the code you're developing for work (eg network optimization, UI feedback, etc)?"
+"In Matrix, it's insinuated that Neo is selling a program that acts like a drug for the mind. If one were to embark down a route of creating such a program for real, what would it be? (I'm not interested in a lecture of what fiction is, thanks!)"
+"Which is better for web development and SEO, a non-async JS script or an iframe script?"
+"Why do we learn Python in school instead of a lower level language like C, C++, etc.?"
+Do you think math subjects will eventually turn all into programming in the future?
+What should you expect from a kid’s coding bootcamp?
+"When the #include <iostream> is flagged for a ""fatal error: iostream: no such file directory"" what does this mean?"
+"What do you do everyday for improve your coding skill? I try to solve Leetcode easy problem by Python everyday, and I was building some project by VB or Web, but I think I'm not enthusiasm enough to keep going, so I need some advice."
+"How do I get back my familiar workspace on intellijidea? I am a beginner just learning Java on my own, I uninstalled intellijidea due to some problems but when I installed it back I got a strange workspace?"
+What is computer science?
+What programming language do I need to build my own Web3 game?
+"When Ian Clark says, ""SQL was created for a reason and most of those that have decided to abandon it for various kludgy solutions don't really understand why SQL was created in the first place"", what does he mean?"
+Is the relationship between ribosome and mRNA similar to a programming language and its compiler?
+"Hello! I just begging learning programming, my goal is to become a Frontend developer. I'm having problems with HTML, I finished Freecodecamp lessons on in a very few tike and o feel like it's not enough to go to CSS so I moved to SoloLearn. I'm not about 80% done and I'm coming across this lessons on API, DRAGANDDROP, SVG etc. It's getting really boring cause it just looks like a bunch of lines of code all of a sudden. Any advice please?"
+Can someone learn coding in 6months?
+What can you create once mastering the HTML coding language?
+"As a programmer, what is the most exciting/fun thing you've made or contributed to?"
+"I am studying finance and accounting, but I want to start learning to program due to increasing employer demands. What is the best road map and resources to start for this?"
+"As a finance and accounting student, what should I start to learn about CS and programming due to increasing employer demands and necessity to adapt to future job competition?"
+What are the best coding languages and data warehousing programs should one learn to have a viable career / competitive advantage in blockchain technology?
+How do you code a website builder such as Wix or Webs?
+"Is it possible to make an app if I only have a basic knowledge of Python? If yes, how should I start?"
+"Should the fact that computers are internet-focused be evidenced with online-interactivity automatically loaded as soon as operating-systems have booted into the desktop, this concept presumably integrated at the stage of firmware-development?"
+"Is learning web scraping helpful for a career in the CS field? If so, what do I need to learn for it?"
+What time is best to do coding?
+How do beginners practice coding?
+"I've just started on this developer path around 3 months ago and I have a good foundation in HTML, CSS and I'm currently learning JavaScript, my goal is to become a backend dev am I'm planning on learning nodejs after I'm done with JavaScript, what else do I need to know that can be helpful in getting a role as a junior software dev??"
+Do startups that chose Java as their main backend language regret this decision?
+What are the must-read concepts for someone who wants to start programming with no prior knowledge and practice?
+"Let's say you're back in time and want to learn data structures and algorithms, how will you start, and why?"
+Why is it important to develop a UML activity diagram prior to the developers writing the code for a system?
+"Anyone who can help with a programming code that detects the intensity of sunlight, if it's low then it triggers back-up generator to start powering?"
+Is it possible for someone to learn and master web development within one month?
+What are some mistakes to avoid while learning programming?
+How do I write a C program to find the maximum between three numbers without using array here?
+It is possible to create website without buying domain?
+What should I do if I'm not assigned any tasks as a junior software engineer?
+What should I do as a junior software engineer if it's been two weeks and the developer that my manager told me to work with doesn't assign me any tasks and is always busy?
+What is Project Darkstar?
+How many months should it take to learn machine learning?
+Why are computer science careers paid less in the USA?
+"Between (computer science) and (statistics&programming), which one is better? If any, should I do a master’s in data science?"
+"What is a program, programming language, header files, and reserved words?"
+How do I learn a programming language in the super fastest way?
+"Is it better practice to store a copy of the object or a reference such as the ObjectID that can be searched when needed, similar to how we'd use IDs in a SQL table? This is in the context of MongoDB."
+As a newbie getting into mobile app development which should I learn. Flutter or Kotlin
+"I’m a junior software developer that started working on a project that will be transferred to other team. Considering that I have only 3 months experience on the project, how will I do the knowledge transfer task that was assigned to me?"
+Is it profitable to build a server setup for mining cryptocurrency?
+"To build messenger in Erlang/ELixir to learn process creation, communication, deletion, supervision, monitoring, all error handling stuff; Is there block-level design and source code in Erlang/Elixir with an explanation on the internet?"
+Are two people enough to code a website in four months?
+"(New coder here) what is the general app that most coders use? Also, is there any sort of extensions I should add?"
+How do computers take binary electrical code and turn it into (somewhat) user-friendly interfaces and images that make any amount of sense?
+How do you create a vertical line using an SVG tag?
+How do I add an exception in a UAC list so that software runs without asking?
+Why do people mention fast when they want to tell the features and capabilities of a programming language (fast compared to what exactly)?
+Do most developers of triple AAA title video games work as one man shops but portray themselves as being teams of a hundred people or more just to make their work appear more accessible to the novice programmers?
+Are Python and JavaScript enough to get a job for a beginner?
+What do I need to learn to become a jailbreak developer or OS security researcher I don’t want to learn about networking?
+"Would employers employ a candidate who, instead of a degree, has a proof of his skills in the form of projects on his GitHub?"
+Are weakly typed languages designed to be harder to read for future developers?
+"When dealing with compose in functional programming does anyone know the meaning of the terms fns, Val, fn and prev?"
+What are the downsides of Haskell?
+Is it just me or is it indeed the case that there is a certain bell or whistle that has to go off in a programmer's head before they can start minting code for a given project?
+"Why this function return false Boolean, string_val=""2.2"" if string_val.isdecimal(): print (""double"") else: print (""not double"") is there any method return true with number like ""2.12, 5.36,0.25""?"
+How do I carry out a spatial analysis on R programming?
+Which one is easier to learn and the best between R programming and Python?
+"Which way is better to learn programming, online or on-site boot camps?"
+Is it important to learn JavaScript for cyber security?
+What is the difference between spring boot service methods (I understand all spring managed classes are by default singleton and i cannot have instance level variables) and static methods?
+Who can help me with the program in C?
+Do you agree with me that you should enjoy boredom while you're learning programming because this is what separates the successful programmer from the unsuccessful?
+"How do I code a troubleshooting program for any device (phone, laptop, speaker)? It gathers information and displays if there are any errors."
+How do I find a coding buddy? I have many years of experience in .Net (incl. Core) dev but the last 2 of no coding made me feel very rusty. Learning by watching & gradually contributing to someone's project seems like the best way to regain my skills
+Can an algorithm be programmed without the use of multiplication or division?
+"Should you get your BS, MS, and doctorate in the same major or branch out to relevant majors?"
+What's the difference between browser object model and document object model in web development?
+How do I get and convince a client on web development on Facebook faster?
+Why did you become a programmer/developer?
+"How do you determine if the vectors of form (a,2a+1,+c) is a subspace?"
+Which concepts and best resources for them do you suggest if I want to build my career on Excel VBA programming and I am totally a beginner?
+What is AJAX and what does it give us as web developers? Give 3 examples of companies use AJAX in their applications and websites and how do they use it?
+I’m a junior software engineer and I’ve noticed that I’m silent when I speak about technical stuff with seniors. I think their ideas are the best because they have more experience. What can I do to have more self-confidence to express my opinion?
+How does a detect cheating algorithm work in an online game?
+"What is the NEAR tech stack (context: ""Pure Web3 tech stack: IPFS, OrbitDB, NEAR"")?"
+How do you call a class method without creating the object of the class?
+How do you undo a git commit without losing your files?
+How do you respond to a job offer without accepting it?
+"How can I outperform everyone else in programming? I practice for many hours every day, but I don't see the results I want."
+"Hi everyone, every programmer out there. What's your advice for new programmers? What mistakes should we avoid?"
+I just started working for a prestigious company and off to a bad start. I can't seem to get my headspace right for the task I was given. I get very nervous in the daily stand up. What can I do to try and turn things around?
+What is the best way to develop my programming skills? Is it by making projects or solving problems?
+"Hello, I am working on a SaaS software and would like a full stack engineer to join as a cofounder anyone? It’s for the photography industry."
+"Without taking into account how the current browsers work, how would ideal HTML, CSS, and JavaScript code look like?"
+"You have to setup a SQL server and specify the disk layout. SAN Storage have given you RAID01, RAID1, RAID5, RAID10. How will you configure the drives for SQL?"
+How does symbolic logic apply to computer science and computer programming?
+Can you host the subdomain on a different server? How do you host a sub domain on a separate hosting account?
+Is it effective to combine a digital computer and an analog computer?
+"It is said, ""Everything in C# is a class"". How about other main languages like C, C++, Python, Java, Javascript, Rust. What is ""Everything in Python/Java/…"" and so on? How does it change the programming paradigm?"
+"How is this done??
+Write a complete C++ command to implement a ""Sum of Numbers in Range"" (sonir) program. Place all your code inside the main() routine; do not write any extra user-defined functions. To minimize your writing, you do not have to code any comments. Do not forget to show program structure through indentation. This program is invoked with zero or more names of files following the executable name on the command-line. If your program is invoked with no arguments, it should do nothing and return silently. Otherwise, for each filename argument (yes, this means you have to ""open"" and ""close"" each file) read a stream of real numbers from that file and add together (i.e., total) those numbers in the input that are between -99.71 and 450.225, inclusive, and print this sum to standard output with a precision of one decimal point. Be sure this total is not printed in E-notation. You may assume that all files specified exist. For each file, a line is printed giving the filename, a colon, and the sum of the in-range numbers. The following example shows the command being invoked with the names of two files, january.dat and hans.dat. The example shows the resulting two lines of output: each line consisting of a filename, a colon, and sum of the in-range numbers. $ sonir january.dat hans.dat january.dat: 535679.4 hans.dat:-436.7?"
+Can someone from a very poor family in African countries become a highly skilled expert in some fields of computer science with only the help of a laptop and internet resources?
+"I want to learn programming and networking. My main goal is to be in the cyber security field. Should I learn programming first because it ties to networking, or should I learn some networking first?"
+"I want to learn programming. What is your advice to me? I know that this is a stupid question, but I do not know what I will learn and benefit me in the future."
+"How do I create a pay wall for a website with exclusive paid content, what programs can I use to build such a website?"
+What is the best way to check whether a string is a palindrome or not?
+"If a programmer can design a program to find their dream job, what will it be?"
+Does TCPdump only allow us to capture TCP packets?
+What skills and knowledge do I need to learn to build a site like Wikipedia?
+How important is it to learn UML for an OO developer?
+How do I check if a string contains a subsequence on python? For example if the string = 9453923 and the subsequence = 495 it is supposed to confirm that it is not a subsequence of the string. PLEASE HELP.
+"How do I add event reminder time into the CSV file calendar? I am using this format and ""Reminder On/Off"" doesn't work."
+What is the best course for MongoDB to learn more about aggregation and queries for beginners?
+"I have to seek advice from you. I am in final semester of 2 year Cs degree with no previous cs knowledge ...I understand the syntax but there are too many languages taught in our course from c++/java/python/c# in our degree, that I sometimes feel horrible to be able to work as a real software engineer, I have a good understanding of C , Which makes it easier for me to transit, but my problem is even after 2 years of college I feel I am not ready for the job or I will be not able to get any , can you tell me what should I do ASAP to bag a job in IT or internships?"
+Why didn't the people who developed Windows OS get a Turing award yet the people who developed Unix (Dennis Ritchie) got a Turing award?
+"I know programming for 10 years, developed Linux and Android application and can implement anything now. How can I be a software engineer?"
+Is it possible to write code in C that changes a .c file comments from uppercase to lower case and vice versa?
+"Does Elon Musk still code, and are there any examples of any code he has written?"
+"How can I create, design and grow a website?"
+What can I learn in Python except machine learning and data science for a career and living? I am too bad at math. Can anyone help with your valued expertise?
+"So I recently started learning C#. I want to create a program that listens for keywords being said in a live audio chat, and does actions based on what word it detects. Where can I find where to set the input audio source for the class used?"
+What should I learn after learning the basics of C++?
+What's the best bath to be an expert in cybersecurity from scratch?
+What's the more effective way to learn Android with Kotlin from these options Android developers or Udemy course? I already know Java.
+"Can you encourage me, who hates coding, into coding with your own words?"
+Where is paymath code?
+How do you run FFMPEG commands based on a value in PHP?
+I made a GUI using PyQt5. How do I upload it onto the App Store?
+Why is social closure used in the instructional process?
+"If a student is good at data structure and algorithm but not that good at front-end development, can he/she get a job at big companies? How should he/ she make projects and prepare for interviews?"
+How can I start to learn coding or programming for a simple website or an app?
+What's written in the Gang Of Four book from page 254 to page 260 (Mediator pattern) ? My PDF copy skips those pages.
+"What did Eric Evans mean by if programmers arent interested in the domain to learn principles behind new features, the project will never arrive at a point where powerful new features unfold as collaries to older features? DDD, knowledge crunching 32"
+What are algorithms and name the characteristics of a good algorithm?
+How do we call the diagramatic representation of an algorithm?
+What is a rough outline of an algorithm called?
+How do I learn HTML and Java codes in a short period of time?
+"How do I create a (Python programming) assessment program on how ready are you in case you are infected by Omicron virus? (minimum of 10 questions). It allows to interpret whether the person is highly protected, protected or prone to infection."
+"I don't know if this is cool or not, But I have been taking JavaScript course from multiple resources, I really hope to get the in-depth before moving to react js."
+What is Depstech used for?
+"Is computer science all about coding? If not, what do we actually learn in computer science in the university?"
+How do I use LC3 to write a program that will do a floor division of two numbers and store the answer in a register. The two registers used to hold these registers should be commented in the code for ease of assessment.?
+What are the pros and cons of using Haskell vs Elixir for high performance and high concurrency web application?
+Which language was used to develop Torn aka Torn City? Are there any tutorial courses or books to create that type of website?
+How do you print a base64 image in JavaScript?
+What is the difference between NIU and NID (network interface unit & device)?
+"Python question - There are 3 children(their names are A,B,C). A has 50 candies, B has 43 candies, C has 13 candies. Now they want to play a game.Start from A, each person break all his candies (so far he holds) into 3 parts, keeping one part for hisself and give other two parts to others, He eat the reminder candies. In this way, at the end of the game. How many candies A, B and C has?"
+How can we create a tool to extract the UML automatically from the given code?
+"Where does the line between webpage, website, and web application begin?"
+How do I send a file using FTP from a command line?
+What does the housekeeper process do in spring framework? The one in HikariPool
+What is the most popular programming language in 2022 that's gone somewhat under the radar in its growth in recent years?
+Why is the interpreter pattern not included on refactoring.guru?
+How is the interpreter design pattern different from the composite design pattern?
+What is meant by the systems approach to instruction?
+How can I use Visual Studio Code for a PC? Are there any guidelines? I am lost.
+How can I establish an email service provider? What kind of programming do you need?
+"How do I write a program in C++ that will give me only one prime number greater than 1,000?"
+"On APIs, there seems to be a big deal about them, but in PHP they amount to a file_get_contents, or curl function which don't seem difficult at all. Am I missing something here?"
+How do you see all daemons running in Linux?
+How much does a freelance programmer make? How much per hour can freelance programmers charge?
+Do we call any single page as a website?
+What branch of programming don't need dependencies?
+Does A2P 10DLC apply to text-via-email?
+Why do some programmers use textbooks as monitor stands?
+Is CodeHuk better than WordPress?
+What are some books that inspires computer science students?
+What level of coding experience is required to get the most out of LeetCode?
+How do I find the best Ruby developers?
+How do you publish public websites or apps using JavaScript?
+How do I qualify for a software engineer in 2022?
+Can you learn hacking by programming?
+What are good free Kali Linux tutorials for beginners and progressing through all the tools and commands?
+"I have a lot of coordinates, I need to specify for each coordinate which polygon it belongs to. How to do it using program? May be, using Qgis or mapinfo?"
+Isn't flyweight the most interesting design pattern ever invented?
+Why is getting a job in web development so hard?
+How can I make a music website like Audio Mack with WordPress?
+How do I build an algorithm to code writing in C?
+"When should someone not use a database ORM, and when should they?"
+What are the requirements to become a hacker? What things should I know and where do I start from? (As a self-taught)
+"In CSS, is it possible to change the styling of one element by hovering over another element?"
+Is the Bloom Institute of Technology coding school online legit? It is free until you are making $50K.
+"Should I keep my current Dynamics CRM development job (8 months experience), or shift to web development as I feel I am limiting my technical skills?"
+What is the future in Dart programming one needs to hold on to?
+"Are there companies that allow you to work maintenances on aircraft and/or on avionics and do computer programming/coding for aviation and/or avionics at the same time? If so, what companies/jobs are there that allow you to do that?"
+Why is Rust said to be the language of the next 40 years?
+Why is Rust language considered notorious?
+Will Rust replace C/C++ any time soon?
+"Between intelij and Android studio, which is better for flutter development?"
+What are some cool C programming projects for a beginner?
+Why is math important to computer science?
+Which things must be learned to get a programmer/developer job as a Python/Django developer?
+How do I center an iframe in HTML?
+What do injection contexts mean in hacking?
+How useful is learning to code and what’s the best way to learn?
+[TypeScript] Is it possible to enforce certain properties on an object provided? - Example in comments.
+What would your typical day look like if it were written in code?
+Is HTML worth learning in 2022? What are the essential web development skills to learn in 2022?
+Which HitMap tool do you consider for analysing the audience interactions on your site?
+What does fireproof site mean in DuckDuckGo? How good is the DuckDuckGo browser?
+How can I get the pseudo random number generator algorithm from its output?
+How can I split a queue into 2 queues using alphabetical order (A to H in q1) and (I to Z in q2)? Knowing that the user is asked to enter his name and they’re several users.
+How would I go with creating a simple guessing game?
+"How can I fix an ""out of range"" Asus VZ229HE monitor's problem?"
+How do I select a drop down options if there is no select class?
+"What are some obvious bots still used on Twitter, even after the crackdown, besides the crypto bots?"
+"Does Google rank dynamic pages built using NUXT.js? If yes, what will be the best approach to do?"
+Wouldn't node.js have been called something else? Like say serverside.js. Why call it node? Where are the nodes and which one is the graph?
+Computer Scientists: if you had to recommend just a single book to try and teach someone computer science what would it be?
+There are about twenty different computer systems at the office. Each requires a different type of password. I'm not allowed to write them down or use software track them. Any tips to remembering them?
+"Why is Google developing at the same time Go, Dart, supporting Kotlin and leading the development of several JavaScript and Python frameworks instead of putting all its energy to push a single stack?"
+Are there computer science fraternities/sororities?
+"How do I write a VB program that accepts 3 integers values through the use of a text box, calculates the total, average, and outputs results on a picture box?"
+Which program languages better for generative art python or processing?
+Should I keep learning Flask or start with JavaScript?
+Are 4GL languages generally slower than 3GL languages?
+"What is a while loop in Python, and how will I write it?"
+"What is the difference between cumulative update and cumulative update preview, and why is it like that?"
+Is it possible to create an algorithm so that the computer system enters the guess number automatically after the user presses the enter key using C++ for guessing game programming?
+"How would you go about building a floor plan Web app similar to SiteSurveyor or FieldWire? Divs, canvas, svg?"
+Can you code unreal engine 3 or 4 in just assembly language?
+What programming language is used to program rgb LED light strips?
+Can I learn programming by my Android phone?
+"A senior C++ software engineer said that ""patterns are an anti-pattern"". Is this true? How can a pattern be an anti-pattern?"
+How do I copy multiple lines in VIM?
+"Salesforce: A developer has working business logic code, but sees the following error in the test class: ""You have uncommitted work pending. Please commit or rollback before calling out."" What is a possible solution for the error?"
+"How can I start learning how to program in Python, and what are the topics that are needed for me to make my own distributed ledger technology data structure and algorithm?"
+Why is volatile not considered useful in multithreaded C or C++ programming?
+Why does programming take so long? How many hours does a coder work?
+How can I forcibly shut down my Mac at an appointed time?
+"Why do small company interviewers keep asking me what libraries I use for coding? I use proprietary libraries at large companies, and canned programs have their own libraries. Aren't they nuts using open source libraries for military contracts?"
+How do I build a DeFi project to create value and earn some money?
+What are some good and practical ways to learn how to impliment threading/multi-threading?
+How do I open and reconfigure the operating systems of an Android?
+How do I get the source code of already existing smart contracts on wax blockchain?
+What are the main operations of JVM?
+What framework or SDK should I use to code a cross-browser plug-in?
+Examine why organizations are utilizing modelling tools and techniques for software development?
+"What are some good, free resources to learn Python?"
+What is the hardest platform to develop a video game for?
+How do I copy and paste lines in Nano on OSX?
+What needs to happen to make Web3 a mainstream reality?
+How can I improve my programming skills?
+How would you design an algorithm to find a specific category of object in images?
+Why is Docker no longer free for everyone anymore?
+Can I use GitHub Copilot in technical interviews?
+How good is Python for blockchain development?
+Why is the PDP-11 important for computer programmers?
+How do I free an array in C?
+How do I open bin files on Android?
+How do you check which server is running in Linux?
+Cryptocurrency tracks it's usage across time. Is anyone developing a similar system to fact check ideas? Basically any statement online would be encoded and 'proven' based on it's link to evidence.
+How do I make a web-based image generator that uses pre-made layers of PNGs or SVGs?
+What is the OOP Pascal programming language and its features?
+What is the advantage of a qubit over a regular byte?
+What does a string and a variable mean in programming?
+What is tml?
+What are the best courses for iOS development?
+Can GitHub contents be used for commercial purposes?
+"When you are not good in programming at C, then is it impossible to learn assembly language?"
+Are Ruby and PHP still popular and widely used?
+What are some hard projects I could make with JS CSS and HTML?
+Is Java the only programming language you can use to record user input in HTML?
+"What is defensive programming, and why is it used?"
+"What is the proper setup of SDL2, Eclipse IDE, and MINGW on Windows 11 in order to render a live window of the project? I want to build a Maze portfolio project with SDL2 and raycasting."
+How do I create my own edit.PHP admin page code or template for my custom post type?
+Is it possible to pull data in ADB sideload mode?
+What issues and problems does Elixir/Phoenix address that Ruby on Rails does not?
+How does your company run its beta programs? What are the best tools/processes to ensure new features are properly tested.
+Is it good to work with a very bad code but on a deadline?
+What is multiple inheritance in Java programming?
+What are the best free sites and courses to learn coding?
+How do I open JAR files on a Mac?
+How do I find a library's license (software)?
+What are the best algorithms to build an open domain chatbot?
+"Is there a way to test your level in coding? I’ve been learning JavaScript for the past 2 months and I think I understand the fundamentals, how can I grade myself to be sure?"
+How do I get a first developer job without a computer science degree?
+"Is learning the basics of HTML and CSS enough to create a decent presentable website? If not, what else is required?"
+"As programming world changes every year, what would be better to learn for backend with basic knowledge of JS? Is it better go allin and pick Node and then C# or be more versatile and combine C# Net Core for back with JS for front and next NODEJS?"
+Where are the compiled SDL libraries?
+Do you ever get scared that ML development and AI development will eventually take over and regular programming won't be needed and we won't have jobs anymore?
+I've been learning basic console applications in C++ that compiles in Codeblocks. How do I go from there to apps that you just double click in your desktop without needing a compiler/ide?
+Why doesn't Linux use C++ for kernel development?
+How do I take name in runtime from user [OOP C++] if it's written like char* name; what should I write in cin>>?
+How does a proxy server collect data from a website?
+How do cookies secure a website?
+How can data science boost your career with Python?
+How can I learn programming on my own as a beginner?
+"Is it possible to set up a program to use my discord account and monitor a certain server for a specific message, then react to that specific message with a specific emoji reaction and repeat? What would a program like this look like?"
+Is Torcherc any good? What is the future of development?
+"(Don’t remember) what is the name for a website that teaches coding in python and C++ (only)? It is a very plain website with words in red and paper color background, and I heard that it was put together by a professor in Stanford."
+"The Face Of Microsoft: is there much difference between Windows 10 and 11, or was development a profit-based decision - is this, technically, how Pride has lurched before the fall?"
+How do you access a private variable? Can public functions access private members?
+How do you create a POJO class from a database table?
+"Technocrats are supporting Ukraine as well as others too. So in a sense, do you think Ukraine and the Russian war are going to be entitled to a cyber war soon?"
+Why are ARM processors more efficient than x86? Are there any benefits to x86?
+Is color an attribute in HTML?
+"How can I look up the code used to create JavaScript functionality? For example, how Brenden Eich made 1 == true and 0 == false. Is this in the ECMAscript-262 documentation?"
+"In JavaScript, if 1 == true, 0 == false, then what does 2 and any subsequent numbers equal and why? This in regards to JavaScript boolean operators."
+"In JavaScript, why does false == 0 == ' ' evaluate to false even though false == 0 and 0 == ' ' both evaluate to true?"
+What are unethical practices in ethical hacking?
+Why is solidity used for smart contracts? Why not C++/C# can be used to write smart contracts. What is the advantage of solidity over C#/C++?
+What is the significance of the load factor in HashMap?
+What programming language can be a substitute for JavaScript?
+What programming and data science knowledge is capable of and examples of the advantages of learning them?
+How do you write a Java program to except argument at command line to perform sum of array and apply wrapper class methods?
+How can I make my PHP process to use as much CPU as it can running under Apache 2.4 and Windows 10 (look my comments below)?
+I'm in need of help. Our group is currently creating a calendar mobile application with an active notification and used only within our school. Can you help me know what program language is best to use to create the app?
+"My education level is just SLC and I want to learn coding programming language, is this possible for me? If yes, what are some links?"
+Can anyone tell how to make a bingo game using only the C language?
+"How do you use pumping lemma to prove that the language below is not regular, L2 = {w | w = (101) n, n > 2}?"
+"What method in Python, can I use if for example… I have the string “manOfSteel” but I want to separate the word properly as “man of steel” is there any method that I could use so I could achieve this?"
+How do I make bot.polling() work with other functions?
+What’s your favorite example of bad code?
+How do I transpose every 7 rows of a column to one row with Bash?
+Can I have good names of books or sites that I can learn C program at zero?
+What is the pseudo code and flow chart to check if a given natural number is prime or composite?
+How do I write a simple Java program on an ATM machine?
+How do I validate strings in Kotlin?
+Should I learn native development or cross-platform development for a big social media app?
+I’m 14 and want to learn to be a game developer but I don’t know how to write a single line of code. Is this bad or will I learn when I go to tech school?
+What do I do if Visual Studio code doesn't show a line number?
+Is it possible to learn Python by YouTube or Udemy from the beginning?
+"Is it realistic to create and visualize a voice assistant in Python as a hologram? When he answers me, the hologram will react and change in size, or she might even have a mouth that mimics words."
+Should I take discrete math in college?
+"Ruby on Rails 7 vs Phoenix, which of both is better, and why?"
+"How should I start learning programming for free? For example, learning the fundamentals then moving into more complicated advanced stuff such as actual code writing."
+"What is the difference between functional and object-oriented JavaScript, and why is it beneficial to know both paradigms?"
+"What technologies do metaverse developers need to know? Are AR, VR, AI, ML, and blockchain fundamentals all essential or is there more or less needed for this role?"
+How do I program a world for the metaverse and allow people to buy land?
+Can I use JavaScript to create my own metaverse world?
+What are some of the books you had in college studying computer science?
+"How long will it take to become a blockchain developer, starting from scratch?"
+I was asked by a university where I’m applying to show my code example for a scientific or mathematical problem in any language. What problem would you chose? The course is a master in Machine Learning and High-Performance computing.
+Is there any condition where we should use class instead of hook in ReactJS?
+"Is it possible to implement a 3D map like Google Maps (or a 45° rotation, just enough to see buildings in different angles) on a Flutter app?"
+How will I write a program that solve quadratic equation using Q-basic?
+How do I manage 500 participants in one call? Which apps or software performs better with a low price?
+"'Write a code to add the marks in a test with 5 questions. Each question can be 0,1,2,3 marks. The marks are entered one after the other with no spaces in between them."" How can I solve this while using ""for I in""?"
+Where can I find tutorials on GitHub?
+What reasons can be the case for occasional updating-system problems in software and via Terminal in Linux (having to restart updating processing as they keep coming to a stand-still)?
+"Is SSH protocol obfuscated and if so would a VPN act as the server for its initiation for the combination of SSH and VPN; and, if so, presumably one would still have to check with the individual VPN-provider?"
+What is the best runtime stack in Microsoft Azure cloud?
+How do you make a piece of software compatible with as many platforms as possible?
+Can I connect Arduino using Rust to a quantum computer (I see this like in Python)?
+"Is there an unknown quirky software/tool that helped you expand the capabilities of software, web, and app development?"
+"Could emoji be stacked, layered, and put into composite emoji? Since there are already emoji with multiple parts like 👨‍👩‍👧, why not stack them (like 🙂 on top of 😬 to covey more abstract ideas as smiling on the outside yet cringing on the inside)?"
+Can I learn Dart as my first programming language?
+"Why do Linux distribution programmers not apply the best options for the basic running of operating systems so that all OS' are of a certain out-the-box quality, e.g:- accurate mousepad-control, effective compositor, configuration variety, etc…?"
+Can we directly pass an input as a parameter of function in CPP like temp.setData(cin)?
+Does an API gateway need to support composition of services as well as middleware such as authentication? I want to use nginx as my API Gateway but it seems most functionalities are in the paid version Nginx plus
+Is Sololearn a good website to start learning how to code?
+Should I use a template in competitive programming?
+How do you construct a binary tree from in-order and pre-order?
+"Which software, programming, and computer skills should an accountant and financial worker have?"
+"What is the use of JavaScript in a website, is it easy to learn it if you're a beginner? Our project is to make a website, and I have only learn the basics about HTML and we're still learning about CSS, so Im thinking if I will learn JavaScript or no"
+"As a full-time software engineer, how do I make a plan to learn and improve if I want to read 10 technical books and take 7 online courses?"
+How many types of language content can be written on a website?
+"Which programming language in your opinion, has the best chance of staying in demand and practice over the next 10 years?"
+"Is there a software I can get, so that when I am away from my computer further than 25 meters, it formats the computer's hard drive, like in the TV show Nikita?"
+Where can I create an NFT for free?
+"How hard would it be to program an intelligent grammar Nazi bot that combed the internet for grammar mistakes, correcting them whenever possible (such as on wikis), and whenever it isn't possible to correct, post a comment about it (e.g. you're*)?"
+How did you find the open source project you’re working on?
+How can I find an open source C# project to contribute as a junior software developer?
+What kind of embedded database technologies can we use with Xamarin?
+"In Rust, how would a macro that resembles fscanf() in C be implemented?"
+Where can I learn Python and ReactJS that is project-based for easy understanding?
+How can you cache third-party JavaScript files that are not on your website?
+What is a good back end language to learn to complement JavaScript as a web developer? Is Python a good choice or should I consider a different backend?
+What should I do or expect as a 29-year-old female with no computer or IT experience? I am interested in coding. I recently started freeCodeCamp.
+What does it mean to write/design reusable software? What part of the software are they telling us to make reusable? Does it mean I use the same code in multiple applications?
+What are the best sources for learning math please?
+Which smartphone keyboard is a fully AI integrated keyboard?
+Is it worth learning UML? Are sequence diagrams still used?
+What is external directory sharing in Google Workspace?
+Has a VPN-service ever purposefully obfuscated their own server?
+What do think the right ASO for a browser application should be? I have been finding it difficult to do that right.
+Will the Rust language give the same performance as C++ with Raspberry Pi?
+Why is it so hard to understand programming? No matter how many times I learn it.
+How do I write a C program that creates 2 arrays a and b size of 10 and then interchanges their contents and then compute for their sum?
+Is writing to a stream an example of the builder pattern at work? Since you keep calling write() on the stream with more and more data chunks and when your done you call end() so the writeStream can flush the buffered data into the output device.
+How do I stop my apps from using data?
+How do I run Kali or other pentesting OS on Android 4.2?
+How can we use Uniswap?
+"What certification is important for specialization in specific occupations such as doctors, programmers, and others?"
+How many languages do need to learn to be able to work as a web/apps developer? How long do I need to study them?
+What are the most important and sought skills for landing a job on a health-related IT job? Where do you work and what do you do if you have a job in this field?
+How much writing is involved in a computer graphics course?
+What any kind of school do you want to learn?
+How do you run a Metasploit framework?
+What do programmer analysts need to know before accepting an assignment or computer project from clients?
+"Someone said companies don't like using a serverless route while building their website, they prefer using a custom server? Is this correct and why should I stop using serverless route and start using a custom server for my website? Using Nextjs"
+Have you ever applied multiple dispatch in your programming career?
+I’m looking to create a small robot with movement ai and if anyway possible can respond to pre coded vocal commands anyone know how I might go about it? I’m new to this and really want to figure out the field.
+Why did JavaScript creators decide to use the prototype design pattern to implement the language's core? The gang of four book clearly mentions that prototype pattern shines best in statically typed languages.
+Why do you need Discord for your NFT project?
+How likely are you enjoying the Quora reactions feature?
+Do getters and setters speed up compilation? What is the advantage of getters and setters?
+"How do you create an EXE file, and how do you run an exe file on Windows?"
+What data scraper facilitates the academic institutes the most amount discount on purchasing a data scraping plan?
+"Which one is the best messaging app, i.e., best perform on web app and mobile app version?"
+How do you create a POJO class in IntelliJ IDEA?
+How can you plug in app code to a software in another system
+What requirements do I need to build a website's own bot?
+"Could I make an abstract factory to merge other factories in a game I'm working on to learn c# and object-oriented programming? Sorry if this is the wrong place to ask. I've studied examples here and read up on factory design, factory pattern, abstract factory, & factory method; I followed a tutorial for a game that works well. But I'd like to enhance and expand it so that I can understand the fundamentals of c# and object-oriented programming. There are seven factories in the game, for example. The factories I have in-game are an item factory, a Quest factory, a recipe factory, a monster factory, a spell factory, a trader factory, and a world factory. Is it possible to implement an abstract factory that combines all the factories? I can post my code for the factories, if needed, or would keeping them separate be best? Thank you for any assistance you may provide as well as any feedback you provide to."
+What is the future of the Python programming language in terms of future freelancing projects?
+What is causing the ongoing chip shortage?
+How does multiplication in float data type actually work? Like sometimes the expected answer is 12.800000 but it comes out to be 12.799999. Why does it happen? (How does those logical circuits in background works.)
+"If an AI (doesn’t have to be artificial general intelligence) was created to carry out malevolent purposes & is carrying out such, how would you go about obtaining/exposing the AI’s data that can expose the AI & its partners in malevolence?"
+How do I test Python and Node.js packages on my home Windows 11 computer securely if I don't understand the code used to build it? Should I just develop on Ubuntu in VMware for an extra layer of protection?
+1.) What is the best area and ways to begin to learn coding in 2021-2022? 2.) What aspects to coding should beginners start with? 3.) What coding apps on iOS for learning and studying and practising to code would you recommend?
+What's the use of & and | BitWise operators (Java)?
+"How can I determine all pairs (k, n) such that there exists a k-regular graph on n vertexes?"
+What programming language was used to write the first programming language? How?
+"What is easier to learn, Angular or React?"
+"When moving a computer file, does it make a copy in the new location and delete the one in the old location?"
+What percent of the internet do you prospect will be dApps by 2030? And what parts of the internet do you think will be effected most?
+Would the Intel i5 10th gen CPU be good for coding and design?
+How should one approach LeetCode questions for interview preparation?
+How do I connect a textarea with the post request in React?
+How do I open another Python file and overwrite data in the dictionary?
+How many people were in the development team of Windows 95 and 98?
+What was your biggest struggle when learning JavaScript as your first programming language?
+Is there any short code for the Winbox IP wireless setting?
+Can open source coding lead to security risks either to companies IP or teaching source coding to the wrong people?
+How do I develop a Windows desktop theme?
+What was the last breakthrough in computer programming?
+"Would I be dismissed in big tech companies like Amazon, Google, and others if my employer found out I used Stack Overflow?"
+Where can I find coding project ideas as a beginner developer to build my portfolio?
+I am in mid 40s and I’m trying to learn coding as a part of computer science degree I am seeking. I have to learn C++ and I did start taking classes in it 2 years ago. I’m finding it very very hard to understand concepts—is there a way for a guy at my age to facilitate this complex language or the coding concepts in general ?
+What do you like about working in machine learning/artificial intelligence?
+Why did the Node.js core team decide to use JavaScript instead of typescript when implementing the wrappers around the node.js API?
+Which programming course is the best? I heard a lot of positive opinions about codecademy.com. I would like to learn Python programming. Is it the best for beginners?
+What is the best way to practice problem solving skills?
+What is the best way to learn about API as a product manager without a technical background?
+What is a very complicated AutoHotKey script that does nothing?
+Is there any test exam for SBC Edge Implementation and support Certification - SBCE20?
+What are the similarities and differences between the arm instruction set and 8086 instruction set in layman's terms?
+Why do code generators always use fully qualified identifiers?
+How can I build an e-learning platform using Python 3? Where can I get free resources to learn it step by step?
+Can I get a FAANGM software engineer job if I’ve worked at my job with C# and developed projects at home in Python and JavaScript?
+How do I solve the Kaggle issue with code execution for the first time?
+"Why is there a 177.87.164.214.exe runnning in my task manager. I'm learning ethical hacking and I know about reverse shell, etc. I found this exe file running and Windows PowerShell running, which may be a reverse_shell. Is it?"
+Are ER diagrams (DBMS) actually used in the industry?
+Write an algorithm to find the second largest element in a list of N values. How many comparisons does your algorithm do in the worst case?
+How does a computer CPU know which data to fetch from RAM?
+What are the cons of combining multiple online games into one mobile app? What type of programming language will it require?
+How do I convert Hangouts text into something I can understand?
+"Recently I started reading ""operating system concepts by Abraham silberschatz"", I tried practicing kernel module program, when I compiled codes they worked but on reading I was hardly understanding what was happening. How can I learn code in detail?"
+I want to add Kindle's panel view or comixology's guided view to my website. Can any coders or software engineers help me figure out how to code this type of function?
+What is the best language or framework for beautiful and responsive desktop applications with a good GUI?
+Is there a Python library that can separate an object in the foreground (person) and the background of an image and let me manually adjust pixels from both?
+"What programming language is used to build the game Call of Duty mobile on Android, and how did they do it?"
+What if computer disciplines were like the 4 elements?
+"Why do we say ""application/json"" and not just ""json"" when specifying the Content-Type or Accept header in HTTP requests? Are there other types of JSON to be aware of?"
+What can I do to get better at coding? I am trying a lot but I fail to solve a problem. I might reach a point close to the solution but there remains mistakes in my logic. I need some serious and specific suggestions to get better at this. Pls help.
+What is the best way to learn about NFTs?
+"What is the difference between public static void, public static, public void, static void, and public class in Java and C#?"
+What are the major differences between PHP 7 and PHP 8?
+Can stack overflow be detected at compile time?
+Which search engine has a handwrite feature enabled on smartphones?
+"Should I learn Rust or C++, as a second language to Python?"
+I have learned C++ and Python. Should I learn Java or web development next?
+I want to learn programming and increase my computer knowledge. What classes should I take at a junior college?
+Will your first language always be your primary language?
+"Using selection structure, How can I write a Java program that lets you input five integers. It should determine the lowest and highest values from the inputs and display a message either “With duplicates” or “All unique”?"
+How do game repackers make Steam games work without Steam?
+"Ideally, we want to send data as fast as possible or at line speed. If sending at line speed, are there any concerns and how would these concerns be handled?"
+"When we route a packet from A to B over the Internet, would it be practical to use Dijkstra’s algorithm-based protocols? If not, how would I address the issue?"
