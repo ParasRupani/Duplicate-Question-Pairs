@@ -7,6 +7,8 @@ from nltk.corpus import wordnet  # Lemmatization
 from nltk.stem import WordNetLemmatizer  # Lemmatization
 import re  # Regular expressions
 import emoji  # Handling emojis
+import nltk
+nltk.download('punkt')
 
 def preprocess(data):
 
