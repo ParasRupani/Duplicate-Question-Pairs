@@ -6,7 +6,7 @@ from helper import preprocess  # Importing custom preprocessing function
 import pickle
 
 # Loading pre-trained machine learning model
-model = pickle.load(open('./models/sgdc_con.pkl','rb'))
+model = pickle.load(open('./models/sgdc_con_calib.pkl','rb'))
 
 # Loading SentenceTransformer model
 helper_model = SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')
@@ -34,10 +34,9 @@ if st.button('Find'):
     embeddings_array = np.array(embeddings_list)
 
     # Predicting duplicate or not using the pre-trained model
-    result = model.predict(embeddings_array[:, :384] * embeddings_array[:, 384:])
+    result = model.predict_proba([embeddings[0]*embeddings[1]])[0]
 
-    # Displaying the result
-    if result:
-        st.success('Duplicate')
+    if result[1] > 0.5:
+        st.success('Duplicate, Score: {}'.format(round(result[1], 2)))
     else:
-        st.success('Not Duplicate')
+        st.success('Not Duplicate, Score: {}'.format(round(result[1], 2)))
