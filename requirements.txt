@@ -9,5 +9,4 @@ matplotlib==3.8.2
 seaborn==0.12.2
 spacy==3.7.4
 tqdm==4.66.1
-en-core-web-sm==3.7.1
 scikit-learn==1.4.2
