@@ -9,6 +9,7 @@ import re  # Regular expressions
 import emoji  # Handling emojis
 import nltk
 nltk.download('punkt')
+nltk.download('stopwords')
 
 def preprocess(data):
 
