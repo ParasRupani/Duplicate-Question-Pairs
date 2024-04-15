@@ -6,7 +6,7 @@
 
 # [Duplicate Question Pair Analysis](https://github.com/ParasRupani/Duplicate-Sentence-Pairs)
 
-<h3 align="center">    <a href="duplicate-question-pair-analysis.streamlit.app"><strong><u>Explore the Live Application via Streamlit</u> »</strong></a></h3>
+<h3 align="center">    <a href="https://duplicate-question-pair-analysis.streamlit.app/"><strong><u>Explore Live Application via Streamlit</u> »</strong></a></h3>
 
 <br>
 </div>
@@ -14,9 +14,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Duplicate question pair analysis goes beyond simple text matching; it revolves around a more comprehensive approach. Rather than focusing solely on exact text matches, we leverage NLP techniques to consider the underlying meaning and context of questions. This is achieved by utilizing methods like word embeddings and semantic similarity to identify paraphrases and conceptually related text.
+Duplicate question pair analysis goes beyond simple text matching; it revolves around a more comprehensive approach. Rather than focusing solely on exact text matches, we leverage NLP techniques to consider questions' underlying meaning and context. This is achieved by using word embeddings and semantic similarity to identify paraphrases and conceptually related text.
 
-This issue was initially identified by Quora, where users posed similar questions with varying wordings on the same topic. To address this, they sponsored a contest on Kaggle, challenging professionals to identify whether two questions were semantically similar or not. This problem is common across multiple platforms, including Reddit, Stack Overflow, and many more. Solving it provides domain expertise in the majority of aspects needed to implement Natural Language Processing. Overall, this project helps us strengthen our skills in the domain of NLP.
+Quora initially identified this issue, where users posed similar questions with varying wordings on the same topic. To address this, they sponsored a contest on Kaggle, challenging professionals to identify whether the two questions were semantically similar. This problem is shared across multiple platforms, including Reddit, Stack Overflow, etc. Solving it provides domain expertise in most aspects needed to implement Natural Language Processing. Overall, this project helps us strengthen our skills in NLP.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -35,7 +35,7 @@ This issue was initially identified by Quora, where users posed similar question
    ```sh
    pip install -r requirements.txt
    ```
-3. Execute `app.py` using streamlit
+3. Execute `streamlit_app.py` using streamlit
    ```sh
    streamlit run streamlit_app.py
    ```
