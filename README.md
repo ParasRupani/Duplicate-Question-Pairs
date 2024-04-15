@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Duplicate Question Pair Analysis
+# [Duplicate Question Pair Analysis](https://github.com/ParasRupani/Duplicate-Sentence-Pairs)
 
 <h3 align="center">    <a href="duplicate-question-pair-analysis.streamlit.app"><strong><u>Explore the Live Application via Streamlit</u> »</strong></a></h3>
 
@@ -47,32 +47,32 @@ This issue was initially identified by Quora, where users posed similar question
 ## Steps Involved
 
 - [x] Data Collection
-- Web Scraping
+    - Web Scraping
   <br>
 - [x] Data Preprocessing
-- Tokenization
-- Stopwords Removal
-- POS Tagging
-- Lemmatization
-- Hashtag Removal
-- Emoji Removal
+    - Tokenization
+    - Stopwords Removal
+    - POS Tagging
+    - Lemmatization
+    - Hashtag Removal
+    - Emoji Removal
   <br>
 - [x] Feature Extraction
-- TF-IDF
-- Word Embedding (GLoVe)
-- Contextual Embedding (BERT)
+    - TF-IDF
+    - Word Embedding (GLoVe)
+    - Contextual Embedding (BERT)
   <br>
 - [x] Model Training
-- Logistic Regression
+    - Logistic Regression
   <br>
 - [x] Model Evaluation
-- Accuracy
-- Precision 
-- Recall 
-- F1-score
+    - Accuracy
+    - Precision 
+    - Recall 
+    - F1-score
   <br>
 - [x] Deployment
-- Streamlit
+    - Streamlit
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@ Sumit - [@Sumit Sandhu](https://www.linkedin.com/in/sumit-sandhu-a642507b/)
 
 Paras - [@ParasRupani](https://www.linkedin.com/in/ParasRupani)
 
-Project Link: [Laptop Price Prediction](https://github.com/ParasRupani/Duplicate-Sentence-Pairs)
+Project Link: [Duplicate Question Pair Analysis](https://github.com/ParasRupani/Duplicate-Sentence-Pairs)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
